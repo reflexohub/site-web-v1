@@ -1,9 +1,9 @@
 
-# Site web de Suzanne
+### Site web de Suzanne
 
 Bienvenue
 
-Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au Centre Ocinquième Sens,  11 rue du Grand-Bureau, 1227 Acacias-GE
+Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au *Centre Ocinquième Sens*,  11 rue du Grand-Bureau, 1227 Acacias-GE
 Tél. 078 880 17 18
 
 Prenez le temps de découvrir  sur ce site les différents aspects de la réflexologie que je pratique
@@ -43,11 +43,11 @@ Onco-réflexologie : Pascale Chenoun, F-Tours, 2015
 
 
 
-Liens :
+## Liens :
 
 Réflexologie – massages :
 
-Centre Ocinquieme Sens  : <http://www.ocinquieme.ch>
+[Centre Ocinquieme Sens](http://www.ocinquieme.ch)
 
 
 Réflexologie – massages – Fleurs de Bach
