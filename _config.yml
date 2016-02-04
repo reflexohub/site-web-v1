@@ -5,8 +5,8 @@ locale: fr_FR
 
 # url: "http://suzanne-himmelberger.ch"
 
-# url: "http://reflexohub.github.io/"
-# baseurl: "/site-web-v1/"
+url: "http://reflexohub.github.io/"
+baseurl: "/site-web-v1/"
 
 # Build settings
 markdown: kramdown
