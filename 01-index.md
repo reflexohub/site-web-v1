@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Accueil
-permalink: /
+permalink: /toto
+published: false
 ---
 
 
 
 # Accueil
 
-Bienvenue,
+## Bienvenue,
 
 Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au [*Centre Ocinquieme Sens*](http://www.ocinquieme.ch), 11 rue du Grand-Bureau, 1227 Acacias (Ge), Suisse
 
