@@ -1,0 +1,12 @@
+
+title: "Suzanne Himmelberger"
+description: > # Réflexologie, région de Genève, Suisse
+locale: fr_FR
+
+# url: "http://suzanne-himmelberger.ch"
+
+# url: "http://reflexohub.github.io/"
+# baseurl: "/site-web-v1/"
+
+# Build settings
+markdown: kramdown

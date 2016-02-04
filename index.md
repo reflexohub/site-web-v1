@@ -1,3 +1,8 @@
+---
+layout: page
+title: Accueil
+permalink: /
+---
 
 
 
@@ -5,7 +10,7 @@
 
 Bienvenue,
 
-Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au *Centre Ocinquième Sens*, 11 rue du Grand-Bureau, 1227 Acacias (Ge), Suisse
+Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au [*Centre Ocinquieme Sens*](http://www.ocinquieme.ch), 11 rue du Grand-Bureau, 1227 Acacias (Ge), Suisse
 
 T +41 78 880 17 18
 
@@ -37,50 +42,11 @@ Puis j’ai complété cette formation avec un cours de réflexologie thérapeut
 
 # Formations
 
-- Massage *Amma assis* : Touchline Genève 2007
-- Massage *Amma allongé* : Touchline Genève 2008
-- Réflexologie plantaire : HP Formation Genève, 2013 – 2015
-- Réflexologie thérapeutique : HP formation Genève, 2015
+- Massage *Amma assis* : Touchline, Genève, 2007
+- Massage *Amma allongé* : Touchline, Genève, 2008
+- Réflexologie plantaire : HP Formation, Genève, 2013 – 2015
+- Réflexologie thérapeutique : HP Formation, Genève, 2015
 - Oncoréflexologie : Pascale Chenoun, Tours, France, 2015
-
-
-
-
-
-
-
-
-
-# Liens
-
-**Réflexologie – Massages**
-
-[Centre Ocinquieme Sens](http://www.ocinquieme.ch)
-
-
-**Réflexologie – Massages – Fleurs de Bach**
-
-Harmonie Santé , France Riondel : <http://www.harmoniesante.ch>
-
-
-**Réflexologie – Massages – Hypnose**
-
-Catherine Jörg : <http://catherinejorg.ch>
-
-
-**EFT – TBT, Gestion du stress**
-
-Isabelle Levrat : <http://eft-tbt.com>
-
-
-**Développement personnel grâce au cheval**
-
-Alicia Manzoni : <http://www.equi-liberta.ch>
-
-
-**Géobiologie**
-
-L’Or vert de la Gruyère, Véronique Matter : <http://www.orvert.ch>
 
 
 
@@ -108,7 +74,7 @@ La réflexologie permet également de nettoyer l’organisme en évacuant les d�
 
 # La réflexologie en oncologie
 
-Suite à ma formation en réflexologie, ayant été directement concernée par la maladie, j’ai choisi de faire une spécialisation en oncoréflexologie auprès de Pascale Chenoun qui pratique la réflexologie au Centre de cancérologie de Tours.
+Suite à ma formation en réflexologie, ayant été directement concernée par la maladie, j’ai choisi de faire une spécialisation en oncoréflexologie auprès de Pascale Chenoun qui pratique la réflexologie au Centre de cancérologie de Tours en France.
 
 Cette pratique permet d’apaiser les tensions psychologiques créées par l’annonce de la maladie, de soulager les douleurs provoquées par les effets indésirables et secondaires des traitements de chimiothérapie :
 
@@ -125,6 +91,39 @@ Elle redynamise également l’organisme souffrant par l’impulsion de la libre
 
 
 
+# Liens
+
+**Réflexologie – Massages**
+
+[*Centre Ocinquieme Sens*](http://www.ocinquieme.ch)
+
+
+**Réflexologie – Massages – Fleurs de Bach**
+
+Harmonie Santé , France Riondel : <http://www.harmoniesante.ch>
+
+
+**Réflexologie – Massages – Hypnose**
+
+Catherine Jörg : <http://catherinejorg.ch>
+
+
+**EFT – TBT, Gestion du stress**
+
+Isabelle Levrat : <http://eft-tbt.com>
+
+
+**Développement personnel avec le cheval**
+
+Alicia Manzoni : <http://www.equi-liberta.ch>
+
+
+**Géobiologie**
+
+*L’Or vert de la Gruyère*, Véronique Matter : <http://www.orvert.ch>
+
+
+
 # Articles
 
 Voici quelques liens d’articles sur internet :
@@ -133,5 +132,18 @@ Voici quelques liens d’articles sur internet :
 
 <http://www.actmd.org/articles/200902reflexosoinspalliatifsf.htm>
 
-La réflexologie ne remplace en aucun cas un traitement médical, elle permet un accompagnement en parallèle.
+> La réflexologie ne remplace en aucun cas un traitement médical, elle permet un accompagnement en parallèle.
+
+
+
+# Contact
+
+Suzanne Himmelberger<br/>
+Réflexologue<br/>
+[*Centre Ocinquieme Sens*](http://www.ocinquieme.ch)<br/>
+11 rue du Grand-Bureau<br/>
+1227 Acacias (Ge)<br/>
+Suisse<br/>
+T +41 78 880 17 18
+
 
