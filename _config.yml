@@ -1,7 +1,7 @@
 
 title: "Suzanne Himmelberger"
 description: > # Réflexologie, région de Genève, Suisse
-locale: fr_FR
+locale: fr
 
 # url: "http://suzanne-himmelberger.ch"
 
@@ -10,3 +10,6 @@ baseurl: "/site-web-v1"
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
