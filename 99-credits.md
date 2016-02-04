@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crédits
+title: credits
 permalink: /credits/
 published: false
 ---

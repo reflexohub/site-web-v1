@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Accueil
-permalink: /toto
 published: false
 ---
 
