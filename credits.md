@@ -2,7 +2,7 @@
 layout: page
 title: Crédits
 permalink: /credits/
-published: false
+published: true
 ---
 
 # Photos
