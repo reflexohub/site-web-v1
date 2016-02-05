@@ -1,8 +1,7 @@
 ---
-layout: all-pages
-title: index
-published: false
-permalink: /
+layout: page
+title: contact
+published: true
 ---
 
 # Contact

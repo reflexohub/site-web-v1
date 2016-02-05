@@ -13,3 +13,5 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
+
+exclude: ["CNAME", "README.md"]

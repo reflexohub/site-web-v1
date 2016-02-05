@@ -1,7 +1,7 @@
 ---
 layout: page
 title: oncologie
-published: false
+published: true
 ---
 
 # La réflexologie en oncologie

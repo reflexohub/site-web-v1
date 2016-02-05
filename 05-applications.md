@@ -1,7 +1,7 @@
 ---
 layout: page
 title: applications
-published: false
+published: true
 ---
 
 
