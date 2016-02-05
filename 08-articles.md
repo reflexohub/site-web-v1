@@ -1,5 +1,4 @@
 ---
-layout: page
 title: articles
 published: true
 ---

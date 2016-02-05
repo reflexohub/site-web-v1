@@ -1,7 +1,5 @@
 ---
-layout: page
 title: accueil
-published: true
 ---
 
 <h1 class="title">Suzanne Himmelberger</h1>

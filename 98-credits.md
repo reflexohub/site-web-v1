@@ -1,9 +1,8 @@
 ---
-layout: page
-title: credits
-permalink: /credits/
+title: crédits
 published: false
 ---
+
 
 # Photos
 
@@ -21,4 +20,6 @@ published: false
 
 
 # 2016-01-Life-of-Pix-free-stock-photos-lake-mountain-sunset-BlakeVerdoorn.jpeg
+
 <http://www.lifeofpix.com/wp-content/uploads/2016/01/Life-of-Pix-free-stock-photos-lake-mountain-sunset-BlakeVerdoorn.jpeg>
+

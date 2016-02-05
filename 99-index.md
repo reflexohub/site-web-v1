@@ -1,6 +1,6 @@
 ---
 layout: all-pages
-title: index
+title: index-no-render
 permalink: /
 published: true
 ---

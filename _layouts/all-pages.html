@@ -8,8 +8,8 @@
     {% include header.html %}
 
 {% for page in site.pages %}
-
-<section class="section" id="{{page.title| cgi_escape}}">
+{% unless page.title == "index-no-render" %}
+<section class="section" id="{{page.title | slugify}}">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 text-center contenu">
@@ -20,7 +20,7 @@
     </div>
   </div>
 </section>
-
+{% endunless %}
 {% endfor %}
 
     {% include footer.html %}

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: oncologie
 published: true
 ---

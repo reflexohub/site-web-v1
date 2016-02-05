@@ -2,9 +2,11 @@
   <div class="container">
     <div class="dropdown">
       <button type="button" class="navbar-toggle" data-toggle="dropdown"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-      <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+      <ul class="dropdown-menu" role="menu"{% comment %} aria-labelledby="dLabel"{% endcomment %}>
 {% for page in site.pages %}
-        <li><a href="#{{page.title| cgi_escape}}"{% if forloop.first %} class="active"{% endif %}>{{page.title}}</a></li>
+{% unless page.title == "index-no-render" %}
+        <li><a href="#{{page.title | slugify}}"{% if forloop.first %} class="active"{% endif %}>{{page.title}}</a></li>
+{% endunless %}
 {% endfor %}
       </ul>
     </div>

@@ -1,6 +1,5 @@
 ---
-layout: page
-title: reflexologie
+title: réflexologie
 published: true
 ---
 

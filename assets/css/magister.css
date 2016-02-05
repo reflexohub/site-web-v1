@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 html {
-	/*background:#505D6E url(../images/healing-stones.jpg) no-repeat center center fixed;*/
 	background:#505D6E url( ../../images/bkg-1.jpg ) no-repeat center center fixed;
 	min-height:100%;
 	-webkit-background-size: cover;
@@ -70,7 +69,7 @@ body {
 	opacity: 0;
 }
 .mainmenu .dropdown-menu {
-	top: -14em;
+	top: -1400em;
 	left: 0px;
 	font-size: 17px;
 	padding:0;
@@ -118,7 +117,7 @@ body {
 	width: 100%;
 	overflow:auto;
 	height:100%;
-	padding-top:100px;
+	padding-top:400px;
 	padding-bottom:50px;
 	display:none;
 	top:0;
@@ -395,7 +394,7 @@ div.contenu ul {
 	text-align: left;
 }
 /*
-*/
 ul.dropdown-menu li:nth-child(n+6):nth-child(-n+10) {
 	display: none;
 }
+*/
