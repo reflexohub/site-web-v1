@@ -11,9 +11,6 @@ baseurl: "site-web-v1"
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-sitemap
-
 exclude: ["CNAME", "README.md"]
 
 defaults:
