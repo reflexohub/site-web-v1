@@ -59,7 +59,7 @@ body {
   display: block;
   width: 22px;
   height: 2px;
-  background: #fff;
+  background: background:rgba( 0, 0, 0, .1 );
 }
 .navbar-toggle .icon-bar + .icon-bar {
 	margin-top: 4px;
@@ -69,7 +69,7 @@ body {
 	opacity: 0;
 }
 .mainmenu .dropdown-menu {
-	top: -1400em;
+	top: -140em;
 	left: 0px;
 	font-size: 17px;
 	padding:0;
@@ -135,7 +135,7 @@ section:first-of-type {
 /********************************************************/
 /*                      Typography                      */
 /********************************************************/
-a { color:#fff; /*text-decoration: none;*/ }
+a { color:#fff; text-decoration: underline; }
 a:hover, a:active { color:#fff; text-decoration: underline; }
 .lead {
 	font-weight:normal;
@@ -393,6 +393,10 @@ img {
 div.contenu ul {
 	text-align: left;
 }
+li a.active {
+	background:rgba( 0, 0, 0, .1 ) !important;
+}
+
 /*
 ul.dropdown-menu li:nth-child(n+6):nth-child(-n+10) {
 	display: none;
