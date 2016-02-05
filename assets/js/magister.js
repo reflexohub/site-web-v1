@@ -11,10 +11,8 @@ jQuery(document).ready(function($) {
 	// Switch section
 	$("a", '.mainmenu').click(function()
 	{
-		console.log( "menu cliqué" );
 		if( ! $(this).hasClass('active') ) {
 			current_item = this;
-			console.log( current_item );
 			// close all visible divs with the class of .section
 			$('.section:visible').fadeOut( section_hide_time, function() {
 				$('a', '.mainmenu').removeClass( 'active' );
