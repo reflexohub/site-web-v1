@@ -9,7 +9,7 @@
 
 {% for page in site.pages %}
 {% unless page.title == "index-no-render" %}
-<section class="section" id="{{page.title | slugify}}">
+<section class="section" id="id-{{page.title | slugify}}">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center contenu">

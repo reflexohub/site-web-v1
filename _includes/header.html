@@ -5,7 +5,7 @@
       <ul class="dropdown-menu" role="menu"{% comment %} aria-labelledby="dLabel"{% endcomment %}>
 {% for page in site.pages %}
 {% unless page.title == "index-no-render" %}
-        <li><a href="#{{page.title | slugify}}"{% if forloop.first %} class="active"{% endif %}>{{page.title}}</a></li>
+        <li><a href="#id-{{page.title | slugify}}"{% if forloop.first %} class="active"{% endif %}>{{page.title}}</a></li>
 {% endunless %}
 {% endfor %}
       </ul>
