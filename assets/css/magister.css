@@ -423,7 +423,6 @@ body {
 
 section.section {
 	padding: 0 !important;
-	border: 1px solid;
 }
 h1 {
 	font-size: 3em !important;
@@ -433,7 +432,6 @@ h2 {
 }
 section p {
 	text-align: center !important;
-	border: 1px solid;
 	margin-left: 0 !important;
 	margin-right: 0 !important;
 }
