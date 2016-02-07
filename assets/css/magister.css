@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Macondo+Swash+Caps);
 
 @media screen {
 html {
@@ -149,6 +150,7 @@ h1, h2,
 .title,
 .subtitle {
 	font-family: 'Shadows Into Light', Helvetica, Arial, sans-serif;
+	font-family: 'Macondo Swash Caps', cursive;
 	font-weight:normal;
 	font-size:4em;
 	margin-bottom:60px;
@@ -443,4 +445,3 @@ section img {
 	margin-right: auto;
 }
 }
-
