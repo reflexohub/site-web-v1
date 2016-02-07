@@ -19,7 +19,7 @@ France Riondel :
 
 **Réflexologie – Massages – Hypnose**
 
-Catherine Jörg : <http://catherinejorg.ch>
+[*Catherine Jörg*](http://catherinejorg.ch)
 
 
 **EFT – TBT, Gestion du stress**
