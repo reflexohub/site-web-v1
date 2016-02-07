@@ -11,4 +11,5 @@ Réflexologue<br/>
 11 rue du Grand-Bureau<br/>
 1227 Acacias (Ge)<br/>
 Suisse<br/>
+[suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)<br/>
 T +41 78 946 48 88
