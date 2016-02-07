@@ -29,7 +29,7 @@ Isabelle Levrat : [*EFT-TBT.com*](http://eft-tbt.com)
 
 **Développement personnel avec le cheval**
 
-Alicia Manzoni : <http://www.equi-liberta.ch>
+Alicia Manzoni : [*Equi-liberta*](http://www.equi-liberta.ch)
 
 
 **Géobiologie**
