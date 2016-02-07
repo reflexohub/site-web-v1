@@ -13,7 +13,8 @@ published: true
 
 **Réflexologie – Massages – Fleurs de Bach**
 
-Harmonie Santé , France Riondel : <http://www.harmoniesante.ch>
+France Riondel :
+[*Harmonie Santé*](http://www.harmoniesante.ch)
 
 
 **Réflexologie – Massages – Hypnose**
