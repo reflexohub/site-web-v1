@@ -35,3 +35,8 @@ Alicia Manzoni : [*Equi-liberta*](http://www.equi-liberta.ch)
 **Géobiologie**
 
 Véronique Matter : [*L'Or vert de la Gruyère*](http://www.orvert.ch)
+
+
+**ASAP Association savoir patient**
+
+[*Association savoir patient*](http://www.savoirpatient.ch)
