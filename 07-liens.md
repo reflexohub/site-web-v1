@@ -24,7 +24,7 @@ France Riondel :
 
 **EFT – TBT, Gestion du stress**
 
-Isabelle Levrat : <http://eft-tbt.com>
+Isabelle Levrat : [*EFT-TBT.com*](http://eft-tbt.com)
 
 
 **Développement personnel avec le cheval**
