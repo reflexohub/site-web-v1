@@ -34,4 +34,4 @@ Alicia Manzoni : [*Equi-liberta*](http://www.equi-liberta.ch)
 
 **Géobiologie**
 
-*L’Or vert de la Gruyère*, Véronique Matter : <http://www.orvert.ch>
+Véronique Matter : [*L'Or vert de la Gruyère*](http://www.orvert.ch)
