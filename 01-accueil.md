@@ -13,6 +13,7 @@ Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au
 11 rue du Grand-Bureau<br/>
 1227 Acacias (Genève)<br/>
 Suisse<br/>
+[suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)<br/>
 <i class="fa fa-phone"></i> +41 78 946 48 88
 
 Prenez le temps de découvrir sur ce site les différents aspects de la réflexologie que je pratique.
