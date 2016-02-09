@@ -8,11 +8,12 @@ published: true
 
 *Sur quels types de problèmes la réflexologie peut-elle agir ?*
 
-En premier lieu, les problèmes de stress. Environ 75 % des troubles fonctionnels (constipation, migraines, mal de dos…) sont dus aux tensions qu’engendre le stress.
+La réflexologie stimule les capacités d'auto-guérison du corps. Elle permet de nettoyer l'organisme en évacuant les déchets, et de ce fait permet à l'énergie vitale de circuler librement.
 
-De bons résultats également pour calmer la nervosité, les insomnies, les problèmes digestifs, la constipation, les troubles féminins, les maux de tête, les douleurs vertébrales, les jambes lourdes.
+Même lorsque l'on se sent bien, il est toujours utile d'éliminer régulièrement les déchets de son corps pour se sentir en pleine forme.
 
-La réflexologie stimule également les capacités d’autoguérison du corps
+La réflexologie aide à éliminer les tensions, à rééquilibrer le système nerveux. Elle peut également agir sur le stess qui est à l'origine de nombreux troubles fonctionnels, tels que migraines, maux d'estomac, douleurs dorsales et cervicales, sinusites, constipation, etc.
 
-La réflexologie permet également de nettoyer l’organisme en évacuant les déchets et en faisant circuler correctement l’énergie vitale. Même lorsqu’on se sent bien, il est toujours utile d’éliminer régulièrement les déchets de son corps pour se sentir en pleine forme.
+Elle est très utile également dans l'accompagnement des maladies chroniques, cancers, troubles de l'humeur, et dépressions.
 
+** La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d'un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle **
