@@ -10,8 +10,8 @@ La réflexologie plantaire est une thérapie, et une science qui part du princip
 
 ![](./images/zones-pieds-455x478.png)
 
-# Un peu d'histoire
+### Un peu d'histoire
 
 Une forme de réflexologie existait déjà du temps des pharaons ainsi que dans les médecines traditionnelles chinoises et indienne, il y a quelques milliers d'années. Elle y est d'ailleurs toujours pratiquée.
 
-La réflexologie contemporaine repose sur les recherches, au début du XXème siècle, du Dr Fitzerald, mais c'est surtout à son assistante, l'américaine Eunice Ingham, dans les années 1930, que nous devons sa forme actuelle. 
+La réflexologie contemporaine repose sur les recherches, au début du XXème siècle, du Dr Fitzerald, mais c'est surtout à son assistante, l'américaine Eunice Ingham, dans les années 1930, que nous devons sa forme actuelle.
