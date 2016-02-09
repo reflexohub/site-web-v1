@@ -7,7 +7,7 @@ title: accueil
 
 ![](./images/suzanne.jpg)
 
-Je m’appelle Suzanne Himmelberger, et j’exerce la réflexologie au
+Je vous présente mon site internet. Prenez le temps de le découvrir, ainsi que les différents aspects de la réflexologie que je pratique tous les mercredis après-midi au :
 
 [*Centre Ocinquieme Sens*](http://www.ocinquieme.ch)<br/>
 11 rue du Grand-Bureau<br/>
@@ -16,7 +16,6 @@ Suisse<br/>
 [suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)<br/>
 <i class="fa fa-phone"></i> +41 78 946 48 88
 
-Prenez le temps de découvrir sur ce site les différents aspects de la réflexologie que je pratique.
 
 Au plaisir de vous rencontrer,
 
