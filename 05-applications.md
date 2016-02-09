@@ -12,7 +12,7 @@ La réflexologie stimule les capacités d'auto-guérison du corps. Elle permet d
 
 Même lorsque l'on se sent bien, il est toujours utile d'éliminer régulièrement les déchets de son corps pour se sentir en pleine forme.
 
-La réflexologie aide à éliminer les tensions, à rééquilibrer le système nerveux. Elle peut également agir sur le stess qui est à l'origine de nombreux troubles fonctionnels, tels que migraines, maux d'estomac, douleurs dorsales et cervicales, sinusites, constipation, etc.
+La réflexologie aide à éliminer les tensions, à rééquilibrer le système nerveux. Elle agit également sur le stess qui est à l'origine de nombreux troubles fonctionnels, tels que migraines, maux d'estomac, douleurs dorsales et cervicales, sinusites, constipation, etc.
 
 Elle est très utile également dans l'accompagnement des maladies chroniques, cancers, troubles de l'humeur, et dépressions.
 
