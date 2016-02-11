@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
 @import url(https://fonts.googleapis.com/css?family=Macondo+Swash+Caps);
 
 @media screen {
 html {
-	background:#505D6E url( ../../images/fotolia_54913877.jpg) no-repeat center center fixed;
+	background:#505D6E url( ../../images/Fotolia_54913877_XL_1920x1280.jpg) no-repeat center center fixed;
 	min-height:100%;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
@@ -149,7 +148,6 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 h1, h2,
 .title,
 .subtitle {
-	font-family: 'Shadows Into Light', Helvetica, Arial, sans-serif;
 	font-family: 'Macondo Swash Caps', cursive;
 	font-weight:normal;
 	font-size:4em;
