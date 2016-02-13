@@ -22,3 +22,7 @@ defaults:
 
 sass:
   sass_dir: assets/css
+
+gems:
+  - jekyll-sitemap
+
