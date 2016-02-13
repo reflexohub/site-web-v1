@@ -1,20 +1,10 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
-  <body class="theme-invert">
+{% include head.html %}
+<body class="theme-invert">
 {% include analyticstracking.html %}
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
+{% include navigation.html %}
+{{ content }}
+{% include footer.html %}
+</body>
 </html>

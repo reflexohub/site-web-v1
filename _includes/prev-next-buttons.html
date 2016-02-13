@@ -1,0 +1,67 @@
+{% comment %}
+<!-- Count the pages that have a `title`.
+This is needed to filter out CSS files. -->
+{% endcomment %}
+{% assign NbPages = 0 %}
+{% for thispage in site.pages %}
+	{% if thispage.title %}
+		{% assign NbPages = NbPages | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% comment %}
+<!-- Get the index of the current page. -->
+{% endcomment %}
+{% assign PageID = 0 %}
+{% for thispage in site.pages %}
+	{% if thispage.url == page.url %}
+		{% break %}
+	{% else %}
+		{% assign PageID = PageID | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% comment %}
+<!-- Get the previous and the next page. -->
+{% endcomment %}
+{% assign PrevPageID = PageID | plus: -1 | modulo: NbPages %}
+{% assign NextPageID = PageID | plus:  1 | modulo: NbPages %}
+{% assign PrevPage = site.pages[PrevPageID] %}
+{% assign NextPage = site.pages[NextPageID] %}
+
+
+<div class="col-xs-12 text-center" style="margin: 30px 0;">
+	<img alt="logo" width="150" height="150" src="{{ site.url }}{{ site.baseurl }}/images/logo-suzanne-himmelberger-150x150.png" />
+</div>
+
+<div class="btn-prev-next">
+	<a class="btn btn-primary" title="{{ PrevPage.title }}" href="{{ site.url }}{{ site.baseurl }}{{ PrevPage.url }}" role="button" accesskey="p"><i class="fa fa-chevron-left"></i></a>
+
+	<span>&nbsp;</span>
+
+	<a id="menu-toggle" class="btn btn-primary" title="menu" href="{{ site.url }}{{ site.baseurl }}{{ PrevPage.url }}" role="button" accesskey="p"><i class="fa fa-bars"></i></a>
+
+	<span>&nbsp;</span>
+
+	<a class="btn btn-primary" title="{{ NextPage.title }}" href="{{ site.url }}{{ site.baseurl }}{{ NextPage.url }}" role="button" accesskey="n"><i class="fa fa-chevron-right"></i></a>
+
+	<div id="custom-menu" class="custom-menu">
+		{% for thispage in site.pages %}
+			{% if thispage.title %}
+			{% if thispage.title == page.title %}
+				{% assign CurrentPage = " CurrentPage" %}
+				{% assign CurrentLink = "javascript:void(0)" %}
+			{% else %}
+				{% assign CurrentPage = "" %}
+				{% capture CurrentLink %}{{ site.url }}{{ site.baseurl }}{{ thispage.url }}{% endcapture %}
+			{% endif %}
+			<a class="custom-menu-item{{ CurrentPage }}" href="{{ CurrentLink }}">
+				<div class="col-xs-12 text-center">
+					{{ thispage.title }}
+				</div>
+			</a>
+			{% endif %}
+		{% endfor %}
+	</div>
+
+</div>
