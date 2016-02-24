@@ -23,6 +23,6 @@ Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapt�
 
 ## Offre spéciale jusqu'à fin septembre 2016
 
-** 30% de rabais sur toutes les séances. CHF 70.00 la séance au lieu de CHF 100.00. **
+**30% de rabais sur toutes les séances. CHF 70.00 la séance au lieu de CHF 100.00.**
 
 Profitez en !
