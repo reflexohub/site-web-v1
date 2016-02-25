@@ -24,3 +24,5 @@ Au plaisir de vous rencontrer,
 Suzanne Himmelberger
 
 ❧
+
+{% include facebook-button-2.html %}
