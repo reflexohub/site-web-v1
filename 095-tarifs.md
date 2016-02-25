@@ -4,7 +4,7 @@ permalink: tarifs
 published: true
 ---
 
-# tarifs
+# Tarifs
 
 CHF 100.00 la séance de 60 minutes
 
