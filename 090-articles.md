@@ -18,4 +18,4 @@ Voici quelques liens d’articles sur internet :
 
 [2]: http://www.actmd.org/articles/200902reflexosoinspalliatifsf.htm
 
-[3]: http://http://www.clicbienetre.com/medecine/sante/les-bienfaits-de-la-reflexologie-en-cancerologie-7592#aqWyTBK5WM3egcJf.01
+[3]: http://www.clicbienetre.com/medecine/sante/les-bienfaits-de-la-reflexologie-en-cancerologie-7592#aqWyTBK5WM3egcJf.01
