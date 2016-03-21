@@ -35,15 +35,15 @@ This is needed to filter out CSS files. -->
 </div>
 
 <div class="btn-prev-next">
-	<a class="btn btn-primary" title="{{ PrevPage.title }}" href="{{ site.url }}{{ site.baseurl }}{{ PrevPage.url }}" role="button" accesskey="p"><i class="fa fa-chevron-left"></i></a>
+	<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ site.url }}{{ site.baseurl }}{{ PrevPage.url }}" role="button"><i class="fa fa-chevron-left"></i></a>
 
 	<span>&nbsp;</span>
 
-	<a id="menu-toggle" class="btn btn-primary" title="menu" href="{{ site.url }}{{ site.baseurl }}{{ PrevPage.url }}" role="button" accesskey="p"><i class="fa fa-bars"></i></a>
+	<a id="menu-toggle" class="btn btn-primary" title="menu" href="{{ site.url }}{{ site.baseurl }}{{ PrevPage.url }}" role="button"><i class="fa fa-bars"></i></a>
 
 	<span>&nbsp;</span>
 
-	<a class="btn btn-primary" title="{{ NextPage.title }}" href="{{ site.url }}{{ site.baseurl }}{{ NextPage.url }}" role="button" accesskey="n"><i class="fa fa-chevron-right"></i></a>
+	<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ site.url }}{{ site.baseurl }}{{ NextPage.url }}" role="button"><i class="fa fa-chevron-right"></i></a>
 
 	<div id="custom-menu" class="custom-menu">
 		{% for thispage in site.pages %}

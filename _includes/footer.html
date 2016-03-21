@@ -11,6 +11,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/assets/js/sharebutton.js"></script>
+<script type="text/javascript" src="{{ thisbaseurl }}/assets/js/mousetrap-1.5.3.min.js"></script>
 <script src="assets/js/targetBlank.js"></script>
 <script type="text/javascript">
 jQuery( document ).ready( function( $ ) {
@@ -24,4 +25,19 @@ jQuery( document ).ready( function( $ ) {
 		$( "#custom-menu" ).toggleClass( "toggled" );
 	});
 });
+
+// Navigation page suivante ou précédente avec les flèches gauche-droite du clavier.
+Mousetrap.bind( 'left',  function(e) { navigate_prev_page(); });
+Mousetrap.bind( 'right', function(e) { navigate_next_page(); });
+function navigate_next_page() {
+	var next_page = $( ".bouton-suiv" ).first().attr( "href" );
+	// console.log( next_page );
+	window.location.href = next_page;
+}
+function navigate_prev_page() {
+	var prev_page = $( ".bouton-prec" ).first().attr( "href" );
+	// console.log( prev_page );
+	window.location.href = prev_page;
+}
+
 </script>
