@@ -8,7 +8,7 @@ published: true
 
 ## Bienvenue
 
-{% include prev-next-buttons.html %}
+{% include prev-next-buttons.liquid %}
 
 ![](./images/suzanne-himmelberger.jpg)
 
@@ -27,7 +27,7 @@ Suzanne Himmelberger
 
 ❧
 
-{% include facebook-button-2.html %}
+{% include facebook-button-2.liquid %}
 
 <div style="margin-top: 20px" />
 
