@@ -5,7 +5,9 @@ This is needed to filter out CSS files. -->
 {% assign NbPages = 0 %}
 {% for thispage in site.pages %}
 	{% if thispage.title %}
-		{% assign NbPages = NbPages | plus: 1 %}
+		{% unless thispage.not_in_prev_next %}
+			{% assign NbPages = NbPages | plus: 1 %}
+		{% endunless %}
 	{% endif %}
 {% endfor %}
 
@@ -48,18 +50,17 @@ This is needed to filter out CSS files. -->
 	<div id="custom-menu" class="custom-menu">
 		{% for thispage in site.pages %}
 			{% if thispage.title %}
-			{% if thispage.title == page.title %}
-				{% assign CurrentPage = " CurrentPage" %}
-				{% assign CurrentLink = "javascript:void(0)" %}
-			{% else %}
-				{% assign CurrentPage = "" %}
-				{% capture CurrentLink %}{{ site.url }}{{ site.baseurl }}{{ thispage.url }}{% endcapture %}
-			{% endif %}
-			<a class="custom-menu-item{{ CurrentPage }}" href="{{ CurrentLink }}">
-				<div class="col-xs-12 text-center">
-					{{ thispage.title }}
-				</div>
-			</a>
+				{% if thispage.title != page.title %}
+					{% unless thispage.not_in_prev_next %}
+						{% assign CurrentPage = "" %}
+						{% capture CurrentLink %}{{ site.url }}{{ site.baseurl }}{{ thispage.url }}{% endcapture %}
+		<a class="custom-menu-item{{ CurrentPage }}" href="{{ CurrentLink }}">
+			<div class="col-xs-12 text-center">
+				{{ thispage.title }}
+			</div>
+		</a>
+					{% endunless %}
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 	</div>
