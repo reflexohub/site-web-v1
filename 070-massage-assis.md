@@ -27,4 +27,4 @@ Le Amma Assis peut être pratiqué en tout lieu, car il ne nécessite que de peu
 
 Cette technique traditionnelle de wellness reste la plus répandue au Japon, et tient une position importante dans le vaste choix des méthodes dites de Bien-être.
 
-### Pour votre bien-être et celui de vos pieds, nous proposons également des séances de réflexologie
+### Pour votre bien-être et le bonheur de vos pieds, nous proposons également des séances de réflexologie
