@@ -4,7 +4,9 @@ permalink: massage-assis
 published: true
 ---
 
-# Massage assis & Réflexologie au Montreux-Jazz festival. 1.07.2016 au 16.07.2016
+# Massage assis & Réflexologie au Montreux-Jazz festival.
+
+### Du 1.07.2016 au 16.07.2016
 
 Je fais partie d'un groupe de thérapeutes indépendants, et nous nous regroupons spécialement pour vous pendant toute la durée des festivités du Montreux-Jazz au mois de juillet.
 Notre Espace Détente se situe au Parc Filletaz, au beau milieu du festival off.
@@ -12,7 +14,7 @@ Notre Espace Détente se situe au Parc Filletaz, au beau milieu du festival off.
 ![](./images/equipe-montreux.jpg)
 
 Nous vous proposons des séances de
-1) Massage Assis:
+Massage Assis:
 Le AMMA ASSIS se traduit par « calmer avec les mains"
 La personne est assise sur une chaise dont l’ergonomie spécifique s’adapte à toutes les morphologies, et permet un lâcher prise très rapide.
 Le toucher s’effectue à travers les vêtements, ce qui sécurise ceux qui se font masser pour la première fois. (il n’y a donc pas d’utilisation d’huile ou de crème)
