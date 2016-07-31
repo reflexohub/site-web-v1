@@ -4,7 +4,7 @@ permalink: /
 published: true
 ---
 
-# Suzanne Himmelberger
+# Espace Réflexo, Le Lignon
 
 ## Bienvenue
 
@@ -12,11 +12,12 @@ published: true
 
 ![](./images/suzanne-himmelberger.jpg)
 
-Je vous présente mon site internet. Prenez le temps de le découvrir, ainsi que les différents aspects de la réflexologie que je pratique tous les mercredis après-midi au :
+Je m'appelle Suzanne Himmelberger et je vous présente mon site internet. Prenez le temps de le découvrir, ainsi que les différents aspects de la réflexologie que je pratique dans mon cabinet situé au Lignon :
 
-Centre Ocinquieme Sens
-11 rue du Grand-Bureau
-1227 Acacias (Genève)
+Ouverture début septembre 2016
+
+37 Avenue du Lignon
+1219 Le Lignon (Genève)
 Suisse
 [suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
 <i class="fa fa-mobile"></i> +41 78 946 48 88
