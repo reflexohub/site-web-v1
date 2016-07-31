@@ -8,7 +8,6 @@ published: true
 
 Suzanne Himmelberger
 Réflexologue
-Espace Réflexo
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
 Suisse
