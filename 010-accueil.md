@@ -4,8 +4,7 @@ permalink: /
 published: true
 ---
 
-# Espace Réflexo          
-# Le Lignon
+# Espace Réflexo  Le Lignon        
 
 ## Bienvenue
 
