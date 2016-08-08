@@ -10,8 +10,8 @@ CHF 100.- la séance de 60 minutes
 
 Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
 
-### Offre spéciale jusqu'à fin septembre 2016
+### Offre spéciale à l'occasion de l'ouverture de l'Espace Reflexo au Lignon le 1 septembre 2016
 
-**30% de rabais sur toutes les séances. CHF 70.- la séance au lieu de CHF 100.-.**
+**50% de rabais sur toutes les séances durant tout le mois de septembre. CHF 50.- la séance au lieu de CHF 100.-.**
 
-Profitez en !
+Profitez en ! Contactez-moi pour un rendez-vous.
