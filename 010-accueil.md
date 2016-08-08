@@ -14,7 +14,7 @@ published: true
 
 Je m'appelle Suzanne Himmelberger et je vous présente mon site internet. Prenez le temps de le découvrir, ainsi que les différents aspects de la réflexologie que je pratique dans mon cabinet situé au Lignon :
 
-Ouverture du cabinet le 1er septembre 2016
+Ouverture du cabinet dès le 1er septembre 2016
 
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
