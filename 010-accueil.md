@@ -16,6 +16,8 @@ Je m'appelle Suzanne Himmelberger et je vous présente mon site internet. Prenez
 
 Ouverture du cabinet dès le 1er septembre 2016
 
+<a href="http://reflexolignon.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
 Suisse
