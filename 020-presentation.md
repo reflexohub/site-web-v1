@@ -16,4 +16,4 @@ En 2012, j’ai été confrontée à la maladie, et ce fut pour moi une grande r
 
 J’ai complété cette formation avec un cours de réflexologie thérapeutique, j’ai également suivi un cours d’oncoréflexologie, une formation qui me tenait à cœur, car je vais pouvoir aider des personnes en traitement de chimiothérapie et radiothérapie à mieux supporter leurs traitements, sans compter le soutien psychologique par le biais du toucher que peut amener la réflexologie.
 
-Aujourd'hui, suite à une restructuration dans l'entreprise ou j'ai travaillé, je peux réaliser un rêve : ouvrir mon propre cabinet de réflexologie que je me réjouis de vous faire découvrir.
+Aujourd'hui, suite à une restructuration dans l'entreprise ou j'ai travaillé, je peux réaliser un rêve : faire une activité qui me passionne, et ouvrir mon propre cabinet de réflexologie que je me réjouis de vous faire découvrir.
