@@ -17,3 +17,5 @@ La réflexologie aide à éliminer les tensions, à rééquilibrer le système n
 Elle est très utile également dans l’accompagnement des maladies chroniques, cancers, troubles de l’humeur, et dépressions.
 
 **La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle**
+
+<a href="http://reflexolignon.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
