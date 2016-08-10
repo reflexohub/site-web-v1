@@ -1,7 +1,7 @@
 ---
 title: massage assis
 permalink: massage-assis
-published: true
+published: false
 ---
 
 # Massage assis & Réflexologie au Montreux-Jazz festival.
