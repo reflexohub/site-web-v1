@@ -13,3 +13,5 @@ Réflexologue
 Suisse
 [suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
 <i class="fa fa-mobile"></i> +41 78 946 48 88
+
+<a href="http://reflexolignon.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
