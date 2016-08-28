@@ -2,6 +2,7 @@
 title: accueil
 permalink: /
 published: true
+remove-prev-next-button-bottom: true
 ---
 
 # Espace Réflexo Le Lignon
