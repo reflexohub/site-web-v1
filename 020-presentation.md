@@ -18,4 +18,4 @@ J’ai complété cette formation avec un cours de réflexologie thérapeutique,
 
 Aujourd'hui, suite à une restructuration dans l'entreprise ou j'ai travaillé, je peux réaliser un rêve : vivre d'une activité qui me passionne, et ouvrir mon propre cabinet de réflexologie que je me réjouis de vous faire découvrir.
 
-<a href="http://reflexolignon.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+{% include datedechoix.liquid %}

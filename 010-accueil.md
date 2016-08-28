@@ -4,7 +4,7 @@ permalink: /
 published: true
 ---
 
-# Espace Réflexo Le Lignon        
+# Espace Réflexo Le Lignon
 
 ## Bienvenue
 
@@ -30,7 +30,7 @@ Suzanne Himmelberger
 
 **50% de rabais sur toutes les séances durant tout le mois de septembre. CHF 50.- la séance au lieu de CHF 100.-.**
 
-<a href="http://reflexolignon.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+{% include datedechoix.liquid %}
 
 ❧
 

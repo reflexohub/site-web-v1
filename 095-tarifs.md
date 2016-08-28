@@ -16,4 +16,4 @@ Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapt�
 
 Profitez en ! Contactez-moi pour un rendez-vous.
 
-<a href="http://reflexolignon.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+{% include datedechoix.liquid %}
