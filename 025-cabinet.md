@@ -13,7 +13,9 @@ TPG : bus N° 7, 9 et 23. Arrêt Cité Lignon.
 
 Au plaisir de vous rencontrer prochainement.
 
-![](./images/IMG_1821.JPG)
+![](./images/photocabinet1.jpg)
+
+![](./images/photocabinet2.jpg)
 
 {% include datedechoix.liquid %}
 
