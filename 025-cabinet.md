@@ -16,6 +16,7 @@ Au plaisir de vous rencontrer prochainement.
 ![](./images/photocabinet1.jpg)
 
 
+
 ![](./images/photocabinet2.jpg)
 
 {% include datedechoix.liquid %}
