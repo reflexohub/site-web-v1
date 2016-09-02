@@ -17,6 +17,8 @@ Au plaisir de vous rencontrer prochainement !
 
 ![](./images/photo-cabinet-suzanne-himmelberger-2.jpg)
 
+![](./images/photo-cabinet-suzanne-himmelberger-3.jpg)
+
 {% include datedechoix.liquid %}
 
 {% include facebook-button-2.liquid %}
