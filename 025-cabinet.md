@@ -13,11 +13,11 @@ TPG : bus N° 7, 9 et 23. Arrêt *Cité Lignon*.
 
 Au plaisir de vous rencontrer prochainement !
 
-![](./images/photo-cabinet-suzanne-himmelberger-1.jpg)
+![](./images/cabinet-reflexologie-suzanne-himmelberger-1.jpg)
 
-![](./images/photo-cabinet-suzanne-himmelberger-2.jpg)
+![](./images/cabinet-reflexologie-suzanne-himmelberger-2.jpg)
 
-![](./images/photo-cabinet-suzanne-himmelberger-3.jpg)
+![](./images/cabinet-reflexologie-suzanne-himmelberger-3.jpg)
 
 {% include datedechoix.liquid %}
 
