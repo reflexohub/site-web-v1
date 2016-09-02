@@ -1,5 +1,6 @@
 #!/bin/bash
 
+PORT=8080
 IP=$( ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0-9]*).*/\2/p' )
 echo $IP
 
@@ -7,9 +8,9 @@ CONFIG_DEV="_config_dev.yml"
 
 # http://stackoverflow.com/questions/24633919/prepend-heredoc-to-a-file-in-bash
 read -r -d '' CONFIG_STR << EOF
-url: http://$IP:8080
+url: http://$IP:$PORT
 host: $IP
-port: 8080
+port: $PORT
 baseurl: ""
 
 sass:
