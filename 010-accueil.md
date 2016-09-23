@@ -15,7 +15,7 @@ remove-prev-next-button-bottom: true
 
 ![](./images/Fotolia_119568364_L.jpg)
 
-**Je m'engage à reverser CHF 20.- sur chaque séance de réflexologie effectuée pendant tout le mois d'octobre à l'Association Savoir Patient [savoirpatient.ch](http://savoirpatient.ch/).Le prix de la séance est de CHF 100.-. 
+**Je m'engage à reverser CHF 20.- sur chaque séance de réflexologie effectuée pendant tout le mois d'octobre à l'Association Savoir Patient [savoirpatient.ch](http://savoirpatient.ch).Le prix de la séance est de CHF 100.-. 
 Soyez nombreux et nombreuses à réserver une séance, et en plus de vous faire du bien, vous participerez au soutien de cette association qui me tient à cœur. 
 Un grand merci par avance ! 
 Suzanne** 
