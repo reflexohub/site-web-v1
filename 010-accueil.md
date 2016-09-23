@@ -20,6 +20,8 @@ Soyez nombreux et nombreuses à réserver une séance, et en plus de vous faire 
 Un grand merci par avance ! 
 Suzanne** 
 
+❧
+
 ![](./images/suzanne-himmelberger.jpg)
 
 Je m'appelle Suzanne Himmelberger et je vous présente mon site internet. Prenez le temps de le découvrir, ainsi que les différents aspects de la réflexologie que je pratique dans mon cabinet situé au Lignon :
