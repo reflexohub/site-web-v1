@@ -11,7 +11,7 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-## OCTOBRE ROSE 2016 - Espace Reflexo soutient le Réseau Cancer du Sein(Association Savoir Patient)
+## OCTOBRE ROSE 2016 <br/> Espace Reflexo soutient le Réseau Cancer du Sein(Association Savoir Patient)
 
 ![](./images/Fotolia_119568364_L.jpg)
 
