@@ -13,7 +13,7 @@ remove-prev-next-button-bottom: true
 
 ## OCTOBRE ROSE 2016 <br/> Espace Reflexo soutient le Réseau Cancer du Sein <br/>(Association Savoir Patient)
 
-![Logo Réseau Cancer du Sein](./images/Fotolia_119568364_L.jpg){: width="40%" }
+![Logo Réseau Cancer du Sein](./images/Fotolia_119568364_L.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
 
 **Je m’engage à reverser CHF 20.- sur chaque séance de réflexologie effectuée pendant tout le mois d’octobre à l’Association Savoir Patient, [savoirpatient.ch](http://savoirpatient.ch). Le prix de la séance est de CHF 100.-. 
 Soyez nombreux et nombreuses à réserver une séance, et en plus de vous faire du bien, vous participerez au soutien de cette association qui me tient à cœur.
@@ -48,7 +48,7 @@ Suzanne Himmelberger
 
 {% include facebook-button-2.liquid %}
 
-<div style="margin-top: 20px" />
+<div style="margin-top: 20px"></div>
 
 Suivez mon actualité sur
 [ma page Facebook <i class="fa fa-facebook-official"></i>](https://www.facebook.com/R%C3%A9flexologie-Suzanne-Himmelberger-519481181567251/?fref=ts)
