@@ -38,10 +38,6 @@ Au plaisir de vous rencontrer,
 
 Suzanne Himmelberger
 
-### Offre spéciale à l’occasion de l’ouverture de l’Espace Reflexo au Lignon le 1 septembre 2016
-
-**50% de rabais sur toutes les séances durant tout le mois de septembre. CHF 50.- la séance au lieu de CHF 100.-.**
-
 {% include datedechoix.liquid %}
 
 ❧
