@@ -6,6 +6,10 @@ published: true
 
 # Liens
 
+**Massages de bien-être**
+
+Sandy Scheuring : [*L’instant précieux, Confignon, Genève*](http://massage-confignon.ch)
+
 **Réflexologie – Massages**
 
 [*Centre Ocinquieme Sens*](http://www.ocinquieme.ch)
