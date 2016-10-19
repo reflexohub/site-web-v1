@@ -44,3 +44,6 @@ Véronique Matter : [*L’Or vert de la Gruyère*](http://www.orvert.ch)
 **ASAP Association savoir patient**
 
 [*Association savoir patient*](http://www.savoirpatient.ch)
+
+---
+
