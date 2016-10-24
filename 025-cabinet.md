@@ -21,7 +21,7 @@ Arrêt *Cité Lignon*
 
 ![](./images/cabinet-reflexologie-suzanne-himmelberger-1.jpg){: width="400" }
 
-![](./images/cabinet-reflexologie-suzanne-himmelberger-2.jpg){: width="400" }
+![](./images/portrait_asap.jpg){: width="400" }
 
 ![](./images/cabinet.JPG){: width="400" }
 
