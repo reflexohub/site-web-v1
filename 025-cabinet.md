@@ -17,13 +17,13 @@ Arrêt *Cité Lignon*
 
 ***Au plaisir de vous rencontrer prochainement !***
 
-![](./images/IMG_lignon.JPG){: width="400" }IMG_lignon.JPG
+![](./images/IMG_lignon.JPG){: width="400" }
 
 ![](./images/cabinet-reflexologie-suzanne-himmelberger-1.jpg){: width="400" }
 
 ![](./images/cabinet-reflexologie-suzanne-himmelberger-2.jpg){: width="400" }
 
-![](./images/cabinet-reflexologie-suzanne-himmelberger-3.jpg){: width="400" }
+![](./images/cabinet.JPG){: width="400" }
 
 {% include datedechoix.liquid %}
 
