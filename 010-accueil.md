@@ -11,7 +11,7 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-## OFFRE SPECIALE BONS CADEAUX
+## Offre spéciale bons cadeaux
 
 ![Logo Réseau Cancer du Sein](./images/boncadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
 
