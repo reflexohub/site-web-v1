@@ -15,6 +15,9 @@ Avec un accueil et des mains agréables, le massage des pieds juste WoW, et le P
 Un lieu de détente bien harmonisé, merci Suzanne.
 M.A.
 
+Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée,  un vrai bonheur, même quand elle  touche un point sensible,  le soulagement et le bien-être arrivent très vite. Merci Suzanne.  
+Olga
+
 
 
 
