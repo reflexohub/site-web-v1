@@ -11,7 +11,6 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-❧
 
 ![Suzanne Himmelberger](./images/suzanne-himmelberger.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
