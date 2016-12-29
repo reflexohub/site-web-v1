@@ -17,6 +17,7 @@ Voici quelques liens d’articles sur internet :
 - [Douleurs du dos et réflexologie][7]
 - [Constipation et réflexologie][8]
 - [Stress, surmenage, dépression et réflexologie][9]
+- [Les bienfaits de la réflexologie sur la maladie de Parkinson][10]
 
 
 > La réflexologie ne remplace en aucun cas un traitement médical, elle permet un accompagnement en parallèle.
@@ -38,3 +39,5 @@ Voici quelques liens d’articles sur internet :
 [8]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/constipation-et-reflexologie-plantaire
 
 [9]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/tension-nerveuse-surmenage-depression-nerveuse-vu-par-la-reflexologie-plantaire
+
+[10]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/les-bienfaits-de-la-reflexologie-plantaire-sur-la-maladie-de-parkinson
