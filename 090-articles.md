@@ -15,6 +15,7 @@ Voici quelques liens d’articles sur internet :
 - [Les bienfaits de la réflexologie][5]
 - [La réflexologie chez le bébé][6]
 - [Douleurs du dos et réflexologie][7]
+- [Constipation et réflexologie][8]
 
 > La réflexologie ne remplace en aucun cas un traitement médical, elle permet un accompagnement en parallèle.
 
@@ -31,3 +32,5 @@ Voici quelques liens d’articles sur internet :
 [6]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/bienfaits-de-reflexologie-chez-bebe
 
 [7]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/douleurs-musculaires-du-dos-et-reflexologie-plantaire
+
+[8]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/constipation-et-reflexologie-plantaire
