@@ -13,6 +13,7 @@ Voici quelques liens d’articles sur internet :
 - [Les bienfaits de la réflexologie en cancérologie][3]
 - [L'effet rebond - Quand c'est pire après la séance][4]
 - [Les bienfaits de la réflexologie][5]
+- [La réflexologie chez le bébé][6]
 
 > La réflexologie ne remplace en aucun cas un traitement médical, elle permet un accompagnement en parallèle.
 
@@ -25,3 +26,5 @@ Voici quelques liens d’articles sur internet :
 [4]: http://conscience-et-sante.com/effet-rebond/
 
 [5]: http://vivreaupresent.unblog.fr/2015/12/17/les-3-bienfaits-de-la-reflexologie-plantaire/
+
+[6]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/bienfaits-de-reflexologie-chez-bebe
