@@ -16,6 +16,8 @@ Voici quelques liens d’articles sur internet :
 - [La réflexologie chez le bébé][6]
 - [Douleurs du dos et réflexologie][7]
 - [Constipation et réflexologie][8]
+- [Stress, surmenage, dépression et réflexologie][9]
+
 
 > La réflexologie ne remplace en aucun cas un traitement médical, elle permet un accompagnement en parallèle.
 
@@ -34,3 +36,5 @@ Voici quelques liens d’articles sur internet :
 [7]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/douleurs-musculaires-du-dos-et-reflexologie-plantaire
 
 [8]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/constipation-et-reflexologie-plantaire
+
+[9]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/tension-nerveuse-surmenage-depression-nerveuse-vu-par-la-reflexologie-plantaire
