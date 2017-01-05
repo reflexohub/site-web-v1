@@ -12,6 +12,10 @@ Fidélité : après 9 séances (hors promotion), la 10ème séance est offerte.
 
 Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
 
+## Abonnement
+
+CHF 490.- pour 7 séances
+
 ## Bons cadeaux
 
 ![Logo Réseau Cancer du Sein](./images/boncadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
