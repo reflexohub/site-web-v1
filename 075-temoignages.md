@@ -18,7 +18,7 @@ M.A.
 Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée,  un vrai bonheur, même quand elle  touche un point sensible,  le soulagement et le bien-être arrivent très vite. Merci Suzanne.  
 Olga
 
-Hier soir j'ai du aller me coucher bien avant 22h, tellement je ressentais une fatigue, une fatigue agréable, non pas un épuisement. En général, je me couche facilement après 23h. J'ai dormi d'une traite jusqu'à ce matin. Je suis convaincue que c'est grâce à ton soin.
+Merci encore pour ton soin d'hier, j'ai beaucoup aimé. Hier soir j'ai du aller me coucher bien avant 22h, tellement je ressentais une fatigue, une fatigue agréable, non pas un épuisement. En général, je me couche facilement après 23h. J'ai dormi d'une traite jusqu'à ce matin. Je suis convaincue que c'est grâce à ton soin.
 Liliane
 
 
