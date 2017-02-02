@@ -12,7 +12,6 @@ remove-prev-next-button-bottom: true
 {% include prev-next-buttons.liquid %}
 
 
-![Suzanne Himmelberger](./images/imagerefelxo.jpg)
 ![Suzanne Himmelberger](./images/suzanne-himmelberger.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
 Je m’appelle Suzanne Himmelberger et je vous présente mon site internet. Prenez le temps de le découvrir, ainsi que les différents aspects de la réflexologie que je pratique dans mon cabinet situé au Lignon :
