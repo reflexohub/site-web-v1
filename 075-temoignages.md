@@ -6,6 +6,9 @@ published: true
 
 # Témoignages
 
+J’aimerais partager mon expérience après 3 séances de réflexologie, spécialement pour 2 points : la maladie de menière, qui provoque des vertiges et des acouphènes, ainsi qu’aux crises d’anxiété en lien avec cette maladie. J’ai trouvé Suzanne par Facebook et j’ai trouvé quelqu’un d’incroyable avec les mains d’un ange. Je me sens beaucoup mieux après les séances, les vertiges et les acouphènes disparaissent presque miraculeusement, et j’ai l’impression d’avoir rechargé mes batteries.
+Je la recommande vivement. Merci Suzanne pour tout. 
+
 J’ai passé un agréable et très bénéfique moment entre les mains de Suzanne.
 Les jours suivant la séance de réflexologie, j’étais détendue et mon sommeil a gagné en qualité.
 A recommander vivement.
