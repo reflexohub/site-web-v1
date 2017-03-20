@@ -13,3 +13,5 @@ published: true
 - Oncoréflexologie : Pascale Chenoun, Tours, France, 2015
 - Drainage lymphatique par la réflexologie : HP Formation, Genève, 2016
 - Nutrition et cancer : HP Formation, Genève, 2016
+- Réflexologie de la boîte cranienne : HP Formation, Genève, 2017
+- Points de Knap : HP Formation, Genève, Genève, 2017
