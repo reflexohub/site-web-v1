@@ -4,7 +4,7 @@ permalink: applications
 published: true
 ---
 
-# Les différentes réflexologies que je pratique
+# Autres réflexologies
 
 ### La réflexologie plantaire
 
