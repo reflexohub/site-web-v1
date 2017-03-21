@@ -6,6 +6,8 @@ published: true
 
 # Les applications de la réflexologie
 
+### La réflexologie plantaire
+
 *Sur quels types de problèmes la réflexologie peut-elle agir ?*
 
 La réflexologie stimule les capacités d’auto-guérison du corps. Elle permet de nettoyer l’organisme en évacuant les déchets, et de ce fait permet à l’énergie vitale de circuler librement.
