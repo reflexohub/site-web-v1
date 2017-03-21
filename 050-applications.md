@@ -18,6 +18,7 @@ Elle est très utile également dans l’accompagnement des maladies chroniques,
 
 ### La réflexologie de la boîte crânienne
 
+Principales indications : insomnies, stress, préoccupations.... ou simplement pour le bien-être
 Il s’agit d’une technique douce apportant beaucoup de bien-être au niveau de la tête.
 Ce massage comprend différentes manœuvres, pressions, et mobilisations :
 - La digitopressure, manœuvre apaisante et tonifiante, permettant le déblocage des courants d’énergie vitale
