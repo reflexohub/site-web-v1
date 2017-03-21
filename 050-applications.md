@@ -1,10 +1,10 @@
 ---
-title: applications
+title: réflexologies
 permalink: applications
 published: true
 ---
 
-# Les applications de la réflexologie
+# Les différentes réflexologies que je pratique
 
 ### La réflexologie plantaire
 
