@@ -6,24 +6,9 @@ published: true
 
 # Autres réflexologies
 
-### La réflexologie plantaire
-
-La réflexologie est une science qui part du principe qu'il y a dans les pieds et les mains des zones réflexes qui correspondent à toutes les glandes, tous les organes, et à toutes les parties du corps. 
-Le réflexologue applique des pressions sur ces zones réflexes à l'aide de techniques particulières du pouce ou des doigts qui provoquent des modifications physiologiques en stimulant les défenses naturelles du corps. La personne est traitée dans son intégralité afin d'induire chez elle un état d'équilibre et d'harmonie nommé "homéostasie". 
-
-*Sur quels types de problèmes la réflexologie peut-elle agir ?*
-
-La réflexologie stimule les capacités d’auto-guérison du corps. Elle permet de nettoyer l’organisme en évacuant les déchets, et de ce fait permet à l’énergie vitale de circuler librement.
-
-Même lorsque l’on se sent bien, il est toujours utile d’éliminer régulièrement les déchets de son corps pour se sentir en pleine forme.
-
-La réflexologie aide à éliminer les tensions, à rééquilibrer le système nerveux. Elle agit également sur le stress qui est à l’origine de nombreux troubles fonctionnels, tels que migraines, maux d’estomac, douleurs dorsales et cervicales, sinusites, constipation, etc.
-
-Elle est très utile également dans l’accompagnement des maladies chroniques, cancers, troubles de l’humeur, et dépressions.
-
 ### Le drainage lymphatique par la réflexologie plantaire
 
-Une technique particulière faite de pressions douces, rythmiques et répétitive dans la profondeur des tissus. Idéal pour le traitement de maladies auto-immunes, de médication lourde, inflammations, fibromyalgie, grande nervosité, irritabilité, angoisses, stress, asthme, essoufflements, oppressions, hypertension, etc...
+Une technique particulière faite de pressions douces, rythmiques et répétitives dans la profondeur des tissus. Idéal pour le traitement de maladies auto-immunes, de médication lourde, inflammations, fibromyalgie, grande nervosité, irritabilité, angoisses, stress, asthme, essoufflements, oppressions, hypertension, etc...
 Cette technique amène un effet calmant et apaisant.
 
 ### La réflexologie de la boîte crânienne
