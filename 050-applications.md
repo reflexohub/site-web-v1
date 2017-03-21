@@ -1,5 +1,5 @@
 ---
-title: réflexologies
+title: autres réflexologies
 permalink: applications
 published: true
 ---
