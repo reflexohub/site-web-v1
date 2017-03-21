@@ -28,6 +28,11 @@ Ce massage comprend différentes manœuvres, pressions, et mobilisations :
 - Le traitement du bord de l’occiput, pour un effet d’allègement de la nuque, et préventif de l’arthrose
 La mobilisation des pavillons des oreilles, pour un effet de dégagement du canal auditif, et une prise de conscience de l’équilibre
 
+### Points de Knap
+
+Il s’agit d’une méthode qui agit par la stimulation de certains points musculaires répartis sur tout le corps. L’effet est global et permet de dénouer les tensions présentes. Appliquée régulièrement, elle élimine toutes les sortes de douleurs, et augmente la vitalité. Le corps devient plus équilibré, plus résistant, et les points douloureux de plus en plus rares.
+Les points de la tête permettent de soulager de nombreux symptômes, tels que des céphalées, névralgies, sinusites, rhumes, douleurs de l’oreille, otites, douleurs de la nuque, etc… 
+
 **La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle**
 
 {% include datedechoix.liquid %}
