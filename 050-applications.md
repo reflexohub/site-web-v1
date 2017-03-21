@@ -8,6 +8,9 @@ published: true
 
 ### La réflexologie plantaire
 
+La réflexologie est une science qui part du principe qu'il y a dans les pieds et les mains des zones réflexes qui correspondent à toutes les glandes, tous les organes, et à toutes les parties du corps. 
+Le réflexologue applique des pressions sur ces zones réflexes à l'aide de techniques particulières du pouce ou des doigts qui provoquent des modifications physiologiques en stimulant les défenses naturelles du corps. La personne est traitée dans son intégralité afin d'induire chez elle un état d'équilibre et d'harmonie nommé "homéostasie". 
+
 *Sur quels types de problèmes la réflexologie peut-elle agir ?*
 
 La réflexologie stimule les capacités d’auto-guérison du corps. Elle permet de nettoyer l’organisme en évacuant les déchets, et de ce fait permet à l’énergie vitale de circuler librement.
