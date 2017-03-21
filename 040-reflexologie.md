@@ -1,5 +1,5 @@
 ---
-title: réflexologie
+title: Qu'est-ce que la réflexologie
 permalink: reflexologie
 published: true
 ---
