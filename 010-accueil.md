@@ -13,7 +13,8 @@ remove-prev-next-button-bottom: true
 
 ## Offre spéciale, avril 2017
 
-Découvrez la réflexologie de la boîte crânienne, CHF 50.- au lieu de CHF 100.- pendant tout le mois d'avril. 
+Découvrez la réflexologie de la boîte crânienne.
+CHF 50.- au lieu de CHF 100.- pendant tout le mois d'avril. 
 Profitez-en !
 
 ![Suzanne Himmelberger](./images/suzanne-himmelberger.jpg){: style="margin-top:50px;margin-bottom:50px;" }
