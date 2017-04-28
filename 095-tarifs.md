@@ -11,7 +11,6 @@ CHF 100.- la séance de 60 minutes
 
 Réflexologie de la boîte crânienne
 CHF 100.- la séance de 60 minutes
-Offre spéciale : à moitié prix durant le mois d'avril 2017
 
 Fidélité : après 9 séances (hors promotion), la 10ème séance est offerte.
 
