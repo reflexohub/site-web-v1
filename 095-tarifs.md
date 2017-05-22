@@ -12,7 +12,8 @@ CHF 100.- la séance de 60 minutes
 Réflexologie de la boîte crânienne
 CHF 100.- la séance de 60 minutes
 
-Réflexologie de la tête aux pieds (40 minutes de réflexologie crânienne + 50 minutes de réflexologie plantaire)
+Réflexologie de la tête aux pieds 
+(40 minutes de réflexologie crânienne + 50 minutes de réflexologie plantaire)
 CHF 140.- la séance de 90 minutes
 
 Fidélité : après 9 séances (hors promotion), la 10ème séance est offerte.
