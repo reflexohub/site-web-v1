@@ -23,7 +23,7 @@ Ce massage comprend différentes manœuvres, pressions, et mobilisations :
 - Le traitement du bord de l’occiput, pour un effet d’allègement de la nuque, et préventif de l’arthrose
 La mobilisation des pavillons des oreilles, pour un effet de dégagement du canal auditif, et une prise de conscience de l’équilibre
 
-![reflexocranienne](./images/boncadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
+![reflexocranienne](./images/reflexocrane.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
 
 ### Points de Knap
 
