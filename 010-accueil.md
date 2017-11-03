@@ -29,6 +29,8 @@ Suzanne Himmelberger
 
 {% include datedechoix.liquid %}
 
+![Quand mon énergie est en panne, mon réflexe, c’est Suzanne (Pecub)](./images/pecub-555x742.jpg){: style="margin-top:40px;margin-bottom:100px;width:350px" }
+
 ❧
 
 {% include facebook-button-2.liquid %}
