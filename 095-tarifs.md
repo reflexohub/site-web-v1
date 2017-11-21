@@ -6,23 +6,25 @@ published: true
 
 # Tarifs
 
-Réflexologie plantaire :
+Réflexologie plantaire (bien-être et thérapeutique):
 CHF 100.- la séance de 60 minutes
+
+Réflexologie plantaire (bien-être)
+CHF 50.- la séance de 30 minutes
 
 Réflexologie de la boîte crânienne
 CHF 100.- la séance de 60 minutes
+CHF 50.- la séance de 30 minutes
 
 Réflexologie de la tête aux pieds 
 (40 min. de réflexologie crânienne + 50 min. de réflexologie plantaire)
 CHF 140.- la séance de 90 minutes
 
-Fidélité : après 9 séances (hors promotion), la 10ème séance est offerte.
-
 Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
 
 ## Abonnement
 
-CHF 490.- pour 7 séances
+CHF 490.- pour 7 séances de 60 minutes
 
 ## Bons cadeaux
 
@@ -32,6 +34,7 @@ CHF 490.- pour 7 séances
 
 Un bon cadeau acheté (CHF 100.-), votre prochaine séance de réflexologie à moitié prix (CHF 50.-)
 Profitez-en !
+Egalement bons cadeaux à CHF 50.- pour offrir 30 minutes de réflexologie
 
 A bientôt, Suzanne
 
