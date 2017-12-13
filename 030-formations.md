@@ -15,3 +15,4 @@ published: true
 - Nutrition et cancer : HP Formation, Genève, 2016
 - Réflexologie de la boîte cranienne : HP Formation, Genève, 2017
 - Points de Knap : HP Formation, Genève, Genève, 2017
+- Magnétisme, niveau 1 : Centre Holoïde, Sion. 2017
