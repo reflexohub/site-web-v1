@@ -16,3 +16,4 @@ published: true
 - Réflexologie de la boîte cranienne : HP Formation, Genève, 2017
 - Points de Knap : HP Formation, Genève, Genève, 2017
 - Magnétisme, niveau 1 : Centre Holoïde, Sion. 2017
+- Magnétisme, niveau 2 : Centre Holoïde, Sion. 2018
