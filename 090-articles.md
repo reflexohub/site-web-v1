@@ -18,6 +18,7 @@ Voici quelques liens d’articles sur internet :
 - [Stress, surmenage, dépression et réflexologie][8]
 - [Les bienfaits de la réflexologie sur la maladie de Parkinson][9]
 - [La réflexologie plantaire pour stimuler l'autoguérison et garder la santé][10]
+- [Réflexologie plantaire : pour avoir le meilleur sommeil de votre vie][11]
 
 
 
@@ -42,3 +43,5 @@ Voici quelques liens d’articles sur internet :
 [9]: http://www.psycho-bien-etre.be/bien-etre/reflexologie/les-bienfaits-de-la-reflexologie-plantaire-sur-la-maladie-de-parkinson
 
 [10]: http://www.mieux-vivre-autrement.com/la-reflexologie-plantaire-pour-favoriser-lautogerison-et-garder-la-sante.html#sthash.4MsRfvRQ.lL3FCCWD.dpbs
+
+[11]:https://www.sain-et-naturel.com/reflexologie-plantaire-meilleur-sommeil.html
