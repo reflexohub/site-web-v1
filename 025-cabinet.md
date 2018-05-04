@@ -12,7 +12,7 @@ Le cabinet se situe en face du Centre Commercial du Lignon :
 Parking du centre commercial gratuit la première heure
 (pensez à prendre un ticket)
 
-TPG : bus N° 7, 9 et 23
+TPG : bus N° 7, 9 et 28
 Arrêt *Cité Lignon*
 
 ***Au plaisir de vous rencontrer prochainement !***
