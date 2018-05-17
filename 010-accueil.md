@@ -8,6 +8,7 @@ remove-prev-next-button-bottom: true
 # Espace Réflexo Le Lignon
 
 ## [*Réflexologie en oncologie*](http://reflexo-lignon.ch/oncologie)
+## Soins de support
 
 ## Bienvenue
 
