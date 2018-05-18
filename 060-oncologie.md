@@ -32,5 +32,5 @@ N’hésitez pas à me contacter pour de plus amples renseignements, et à en pa
 
 ![Oncoreflexo](./images/Oncoreflexo.jpeg){: width="400" }
 
-**Attention, la réflexologiesuzanne-himmelberger ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle**
+**Attention, la réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle**
 
