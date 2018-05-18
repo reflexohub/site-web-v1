@@ -30,7 +30,7 @@ Le stylet permet de cibler précisément des points de réflexologie dans le but
 Les séances peuvent se faire à mon cabinet, mais sachez que je me déplace également à domicile. 
 N’hésitez pas à me contacter pour de plus amples renseignements, et à en parler à votre oncologue.
 
-![Oncoreflexo](./images/Oncoreflexo.jpeg){: style="margin-top:50px;margin-bottom:50px;" }
+![Oncoreflexo](./images/Oncoreflexo.jpeg){: width="400" }
 
 **Attention, la réflexologiesuzanne-himmelberger ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle**
 
