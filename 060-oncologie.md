@@ -24,7 +24,7 @@ Il s'agit d'une pratique particulière qui permet non seulement d’apaiser les 
 
 Elle redynamise également l’organisme souffrant par l’impulsion de la libre circulation des énergies.
 
-Le principe est toujours de stimuler des points réflexes situés au niveau des pieds, mais en plus d'utiliser les mains, on utilise un stylet afin de stimuler des points très spécifiques du système nerveux en fonction de ce que l’on souhaite soulager. 
+Le principe est toujours de stimuler des points réflexes situés au niveau des pieds, mais en plus d'utiliser les mains, on utilise un stylet afin de stimuler des points très spécifiques du système nerveux en fonction de ce que l’on souhaite soulager. Il y a des protocoles particuliers en fonction des différents traitements de chimiothérapie.
 Le stylet permet de cibler précisément des points de réflexologie dans le but de soulager des douleurs induites par les traitements de chimiothérapie et de radiothérapie. 
 
 Les séances peuvent se faire à mon cabinet, mais sachez que je me déplace également à domicile. 
