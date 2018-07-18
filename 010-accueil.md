@@ -30,9 +30,9 @@ Suisse
 [suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
 <i class="fa fa-mobile"></i> +41 78 946 48 88
 
-«Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée, un vrai bonheur, même quand elle touche un point sensible, le soulagement et le bien-être arrivent très vite. Merci Suzanne. »
+«Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée, un vrai bonheur, même quand elle touche un point sensible, le soulagement et le bien-être arrivent très vite. Merci Suzanne.»
 
-Etant une spécialiste agréée par l’ASCA, mes séances sont remboursées par certaines assurances complémentaires : http://www.asca.ch/dc.aspx?content=Assureurs_conventionnes
+Etant une spécialiste agréée par l’[*ASCA*](http://www.asca.ch/dc.aspx?content=Assureurs_conventionnes), mes séances sont remboursées par certaines assurances complémentaires.
 
 La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.
 
