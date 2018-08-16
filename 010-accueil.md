@@ -7,8 +7,6 @@ remove-prev-next-button-bottom: true
 
 # Réflexo Lignon
 
-## [*Réflexologie en oncologie*](http://reflexo-lignon.ch/oncologie) <br/> Soins de support
-
 
 ## Bienvenue
 
@@ -22,7 +20,7 @@ Ma spécialité : [la réflexologie en oncologie](http://reflexo-lignon.ch/oncol
 
 [La réflexologie plantaire](http://reflexo-lignon.ch/reflexologie) permet de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
-La réflexologie de la boîte crânienne permet de soulager insomnies, stress, préoccupations et autres.
+[La réflexologie de la boîte crânienne](http://reflexo-lignon.ch/applications) permet de soulager insomnies, stress, préoccupations et autres.
 
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
