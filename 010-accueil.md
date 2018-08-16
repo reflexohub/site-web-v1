@@ -18,7 +18,7 @@ remove-prev-next-button-bottom: true
 
 Reflexo Lignon, espace de détente et bien-être.
 
-Ma spécialité : la réflexologie en oncologie. C'est un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
+Ma spécialité : [la réflexologie en oncologie](http://reflexo-lignon.ch/oncologie). C'est un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
 La réflexologie plantaire permet de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
