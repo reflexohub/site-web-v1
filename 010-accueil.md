@@ -36,7 +36,7 @@ Etant une spécialiste agréée par l’[*ASCA*](http://www.asca.ch/dc.aspx?cont
 
 Au plaisir de vous rencontrer,
 
-Suzanne Himmelberger
+[Suzanne Himmelberger](http://reflexo-lignon.ch/presentation)
 
 {% include datedechoix.liquid %}
 
