@@ -4,7 +4,7 @@ permalink: autres_soins
 published: true
 ---
 
-# Autres réflexologies
+# Autres soins
 
 ### Reflexo-dos
 
