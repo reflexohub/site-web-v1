@@ -5,3 +5,6 @@ published: false
 ---
 
 # Action Octobre Rose
+
+
+{% include datedechoix.liquid %}
