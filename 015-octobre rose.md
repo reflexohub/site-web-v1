@@ -1,7 +1,7 @@
 ---
 title: octobre rose
 permalink: presentation
-published: false
+published: true
 ---
 
 # Action Octobre Rose 2018
