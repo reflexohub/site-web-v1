@@ -1,5 +1,5 @@
 ---
-title: autres réflexologies
+title: autres soins
 permalink: autres_soins
 published: true
 ---
