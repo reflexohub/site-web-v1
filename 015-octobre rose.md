@@ -1,6 +1,6 @@
 ---
 title: octobre rose
-permalink: presentation
+permalink: octobre rose
 published: true
 ---
 
