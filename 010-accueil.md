@@ -12,6 +12,8 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
+[Action Octobre Rose](http://reflexo-lignon.ch/octobre rose)
+
 ![Suzanne Himmelberger](./images/suzanne-himmelberger.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
 Reflexo Lignon, espace de détente et bien-être.
