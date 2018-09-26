@@ -6,7 +6,7 @@ published: false
 
 # Action Octobre Rose
 
-![Image ASAP](./images/Image ASAP.jpg){: style="margin-top:50px;margin-bottom:50px;" }
+![Image ASAP](./images/Image ASAP.jpg){: style="margin-top:40px;margin-bottom:100px;width:350px" }
 
 
 {% include datedechoix.liquid %}
