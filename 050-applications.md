@@ -8,7 +8,10 @@ published: true
 
 ### Reflexo-dos
 
-La réflexologie plantaire ou crânienne combinée avec le massage assis. 
+La réflexologie plantaire ou crânienne combinée avec le massage assis.
+
+![](./images/Reflexodos.JPG){: width="400" }
+![](./images/Massageassis){: width="400" }
 
 ### La réflexologie de la boîte crânienne
 
