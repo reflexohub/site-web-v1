@@ -18,6 +18,7 @@ Cette technique traditionnelle de wellness reste la plus répandue au Japon, et 
 ![](./images/Massageassis.JPG){: width="400" }
 
 
+
 ### La réflexologie de la boîte crânienne
 
 Principales indications : insomnies, stress, préoccupations.... ou simplement pour le bien-être
