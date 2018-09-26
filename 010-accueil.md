@@ -29,6 +29,7 @@ Suisse
 <i class="fa fa-mobile"></i> +41 78 946 48 88
 
 *Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée, un vrai bonheur, même quand elle touche un point sensible, le soulagement et le bien-être arrivent très vite. Merci Suzanne.*
+[Autres témoignages](http://reflexo-lignon.ch/temoignages)
 
 Etant une spécialiste agréée par l’[*ASCA*](http://www.asca.ch/dc.aspx?content=Assureurs_conventionnes), mes séances sont remboursées par certaines assurances complémentaires.
 
