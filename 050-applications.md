@@ -6,10 +6,9 @@ published: true
 
 # Autres réflexologies
 
-### Le drainage lymphatique par la réflexologie plantaire
+### Reflexo-dos
 
-Une technique particulière faite de pressions douces, rythmiques et répétitives dans la profondeur des tissus. Idéal pour le traitement de maladies auto-immunes, de médication lourde, inflammations, fibromyalgie, grande nervosité, irritabilité, angoisses, stress, asthme, essoufflements, oppressions, hypertension, etc...
-Cette technique amène un effet calmant et apaisant.
+La réflexologie plantaire ou crânienne combinée avec le massage assis. 
 
 ### La réflexologie de la boîte crânienne
 
