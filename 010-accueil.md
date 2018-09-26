@@ -24,7 +24,7 @@ Ma spécialité : [la réflexologie en oncologie](http://reflexo-lignon.ch/oncol
 
 [La réflexologie de la boîte crânienne](http://reflexo-lignon.ch/autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
 
-NOUVEAU : [Reflexo-Dos](http://reflexo-lignon.ch/autres_soins) La réflexologie combinée avec le massage-assis.
+NOUVEAU : [Reflexo-Dos](http://reflexo-lignon.ch/autres_soins) - La réflexologie combinée avec le massage-assis.
 
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
