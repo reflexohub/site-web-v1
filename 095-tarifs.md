@@ -20,6 +20,9 @@ Réflexologie de la tête aux pieds
 (40 min. de réflexologie crânienne + 50 min. de réflexologie plantaire)
 CHF 140.- la séance de 90 minutes
 
+Reflexo-Dos (env. 15 min. massage assis + 45 min. réflexologie) : CHF 100.-
+Reflexo-Dos (env. 15 min. massage assis + 60 min. réflexologie) : CHF 120.-
+
 Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
 
 ## Abonnement
