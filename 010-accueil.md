@@ -7,6 +7,8 @@ remove-prev-next-button-bottom: true
 
 # Réflexo Lignon
 
+## Suzanne Himmelberger
+
 
 ## Bienvenue
 
@@ -16,13 +18,13 @@ remove-prev-next-button-bottom: true
 
 Reflexo Lignon, espace de détente et bien-être.
 
-Ma spécialité : [la réflexologie en oncologie](http://reflexo-lignon.ch/oncologie). C'est un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
-
-[La réflexologie plantaire](http://reflexo-lignon.ch/reflexologie) permet de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
+[La réflexologie plantaire](http://reflexo-lignon.ch/reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
 [La réflexologie de la boîte crânienne](http://reflexo-lignon.ch/autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
 
 NOUVEAU : [Reflexo-Dos](http://reflexo-lignon.ch/autres_soins) - La réflexologie combinée avec le massage-assis.
+
+En plus, j'ai une spécialisation de [réflexologie en oncologie](http://reflexo-lignon.ch/oncologie). Il s'agit d'un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
