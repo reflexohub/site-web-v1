@@ -22,6 +22,7 @@ CHF 120.- la séance de 75 minutes
 
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
+- Réflexologie de la tête aux pieds + Massage assis
 CHF 140.- la séance de 90 minutes
 
 Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
