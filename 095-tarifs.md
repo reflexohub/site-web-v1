@@ -6,22 +6,23 @@ published: true
 
 # Tarifs
 
-Réflexologie plantaire (bien-être et thérapeutique):
-CHF 100.- la séance de 60 minutes
-
-Réflexologie plantaire (bien-être)
+- Réflexologie plantaire (découverte et/ou bien-être)
+- Réflexologie de la boîte crânienne
 CHF 50.- la séance de 30 minutes
 
-Réflexologie de la boîte crânienne
+- Réflexologie plantaire (bien-être et thérapeutique)
+- Réflexologie de la boîte crânienne
+- Réflexologie de la tête aux pieds
+- Réflexo-dos
 CHF 100.- la séance de 60 minutes
-CHF 50.- la séance de 30 minutes
 
-Réflexologie de la tête aux pieds 
-(40 min. de réflexologie crânienne + 50 min. de réflexologie plantaire)
+- Réflexologie de la tête aux pieds
+- Réflexo-dos
+CHF 120.- la séance de 75 minutes
+
+- Réflexologie de la tête aux pieds
+- Réflexo-dos
 CHF 140.- la séance de 90 minutes
-
-Reflexo-Dos (env. 15 min. massage assis + 45 min. réflexologie) : CHF 100.-
-Reflexo-Dos (env. 15 min. massage assis + 60 min. réflexologie) : CHF 120.-
 
 Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
 
