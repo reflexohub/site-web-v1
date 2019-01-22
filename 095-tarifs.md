@@ -16,6 +16,7 @@ CHF 50.- la séance de 30 minutes
 - Réflexo-dos
 CHF 100.- la séance de 60 minutes
 
+- Réflexologie plantaire
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 CHF 120.- la séance de 75 minutes
