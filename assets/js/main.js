@@ -32,6 +32,7 @@ $( document ).ready( function() {
 
     var navigate_to_page = function( e, button_class ) {
       var target_page = $( button_class ).first().attr( 'href' );
+      target_page = target_page === void 0 ? "/" : target_page;
       window.location.href = target_page;
     }
 

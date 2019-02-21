@@ -45,3 +45,7 @@ Voici quelques liens d’articles sur internet :
 [10]: http://www.mieux-vivre-autrement.com/la-reflexologie-plantaire-pour-favoriser-lautogerison-et-garder-la-sante.html#sthash.4MsRfvRQ.lL3FCCWD.dpbs
 
 [11]:https://www.sain-et-naturel.com/reflexologie-plantaire-meilleur-sommeil.html
+
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

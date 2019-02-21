@@ -25,9 +25,12 @@ Elle est très utile également dans l’accompagnement des maladies chroniques,
 Une technique particulière faite de pressions douces, rythmiques et répétitives dans la profondeur des tissus. Idéal pour le traitement de maladies auto-immunes, de médication lourde, inflammations, fibromyalgie, grande nervosité, irritabilité, angoisses, stress, asthme, essoufflements, oppressions, hypertension, etc...
 Cette technique amène un effet calmant et apaisant.
 
-
 ### Un peu d’histoire
 
 Une forme de réflexologie existait déjà du temps des pharaons ainsi que dans les médecines traditionnelles chinoises et indienne, il y a quelques milliers d’années. Elle y est d’ailleurs toujours pratiquée.
 
 La réflexologie contemporaine repose sur les recherches, au début du XXe siècle, du Dr Fitzgerald, mais c’est surtout à son assistante, l’américaine Eunice Ingham, dans les années 1930, que nous devons sa forme actuelle.
+
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

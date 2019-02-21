@@ -22,5 +22,4 @@ Suisse
 
 <div style="margin-top: 20px" />
 
-Suivez mon actualité sur
-[ma page Facebook <i class="fa fa-facebook-official"></i>](https://www.facebook.com/R%C3%A9flexologie-Suzanne-Himmelberger-519481181567251/?fref=ts)
+{% include facebook-actu.liquid %}

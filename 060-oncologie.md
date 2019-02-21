@@ -31,9 +31,13 @@ Le stylet permet de cibler précisément des points de réflexologie dans le but
 Les séances peuvent se faire à mon cabinet, mais sachez que je me déplace également à domicile.
 N’hésitez pas à me contacter pour de plus amples renseignements, et à en parler à votre oncologue.
 
-[*Suzanne Himmelberger*](http://reflexo-lignon.ch/contact)
+[*Suzanne Himmelberger*](./contact)
 
 ![attestation reflexologie en oncologie](./images/attestation-reflexologie-en-oncologie.jpg){: width="400" }
 
 **Attention, la réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.**
+
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}
 

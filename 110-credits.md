@@ -18,3 +18,6 @@ published: false
 
 <http://www.fotosearch.fr/CSP990/k10501209/>
 
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

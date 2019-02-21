@@ -25,5 +25,6 @@ published: true
 > Merci encore pour ton soin d’hier, j’ai beaucoup aimé. Hier soir, j’ai dû aller me coucher bien avant 22 h, tellement je ressentais une fatigue, une fatigue agréable, non pas un épuisement. En général, je me couche facilement après 23 h. J’ai dormi d’une traite jusqu’à ce matin. Je suis convaincue que c’est grâce à ton soin.
 > Liliane
 
+{% include datedechoix.liquid %}
 
-
+{% include facebook-actu.liquid %}

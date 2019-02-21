@@ -18,7 +18,6 @@ Suzanne
 
 ![](./images/ImageASAP.jpg){: style="margin-top:40px;margin-bottom:100px;width:350px" }
 
-
-
-
 {% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

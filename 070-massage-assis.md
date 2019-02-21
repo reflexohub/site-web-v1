@@ -30,3 +30,7 @@ Cette technique traditionnelle de *wellness* reste la plus répandue au Japon, e
 ### Pour votre bien-être et le bonheur de vos pieds, nous proposons également des séances de réflexologie
 
 ### Tarif : CHF 30.- les 20 minutes
+
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

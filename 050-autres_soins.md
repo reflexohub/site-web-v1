@@ -39,3 +39,5 @@ Les points de la tête permettent de soulager de nombreux symptômes, tels que d
 **La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.**
 
 {% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

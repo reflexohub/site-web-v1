@@ -45,3 +45,5 @@ Profitez-en !
 À bientôt, Suzanne
 
 {% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

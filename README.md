@@ -2,7 +2,7 @@
 
 # reflexo-lignon.ch
 
-<http://reflexo-lignon.ch>
+<https://reflexo-lignon.ch>
 
 <http://suzanne-himmelberger.ch>
 

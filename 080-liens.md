@@ -49,3 +49,6 @@ Véronique Matter : [*L’Or vert de la Gruyère*](http://www.orvert.ch)
 
 ❧
 
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}

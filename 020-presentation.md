@@ -18,5 +18,6 @@ J’ai complété cette formation avec un cours de réflexologie thérapeutique,
 
 Aujourd’hui, suite à une restructuration dans l’entreprise où j’ai travaillé, je peux réaliser un rêve : vivre d’une activité qui me passionne, et j’ai pu ouvrir mon propre cabinet de réflexologie en septembre 2016, que je me réjouis de vous faire découvrir.
 
-
 {% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}
