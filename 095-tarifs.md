@@ -26,7 +26,7 @@ CHF 120.- la séance de 75 minutes
 - Réflexologie de la tête aux pieds + Massage assis
 CHF 140.- la séance de 90 minutes
 
-Les séances d'onco-réflexologie peuvent être plus courtes, le prix est adapté en conséquence.
+Les séances d’oncoréflexologie peuvent être plus courtes, le prix est adapté en conséquence.
 
 ## Abonnement
 
@@ -34,14 +34,14 @@ CHF 490.- pour 7 séances de 60 minutes
 
 ## Bons cadeaux
 
-![Logo Réseau Cancer du Sein](./images/boncadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
+![Logo Réseau Cancer du Sein](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
 
-**Pensez à vos proches et à vos amis, offrez leur une séance de réflexologie**
+**Pensez à vos proches et à vos amis, offrez-leur une séance de réflexologie**
 
 Un bon cadeau acheté (CHF 100.-), votre prochaine séance de réflexologie à moitié prix (CHF 50.-)
-Profitez-en !
-Egalement bons cadeaux à CHF 50.- pour offrir 30 minutes de réflexologie
+Profitez-en !
+Également bons cadeaux à CHF 50.- pour offrir 30 minutes de réflexologie
 
-A bientôt, Suzanne
+À bientôt, Suzanne
 
 {% include datedechoix.liquid %}

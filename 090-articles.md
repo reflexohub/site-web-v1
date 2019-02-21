@@ -11,14 +11,14 @@ Voici quelques liens d’articles sur internet :
 - [Passport Santé — Indications de la réflexologie][1]
 - [Les bienfaits de la réflexologie dans les soins palliatifs][2]
 - [Les bienfaits de la réflexologie en cancérologie][3]
-- [L'effet rebond - Quand c'est pire après la séance][4]
+- [L’effet rebond — Quand c’est pire après la séance][4]
 - [La réflexologie chez le bébé][5]
 - [Douleurs du dos et réflexologie][6]
 - [Constipation et réflexologie][7]
 - [Stress, surmenage, dépression et réflexologie][8]
 - [Les bienfaits de la réflexologie sur la maladie de Parkinson][9]
-- [La réflexologie plantaire pour stimuler l'autoguérison et garder la santé][10]
-- [Réflexologie plantaire : pour avoir le meilleur sommeil de votre vie][11]
+- [La réflexologie plantaire pour stimuler l’autoguérison et garder la santé][10]
+- [Réflexologie plantaire : pour avoir le meilleur sommeil de votre vie][11]
 
 
 

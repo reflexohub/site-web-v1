@@ -12,7 +12,7 @@ Réflexologue
 1219 Le Lignon (Genève)
 Suisse
 [suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
-<i class="fa fa-mobile"></i> +41 78 946 48 88
+<i class="fa fa-mobile"></i> +41 78 946 48 88
 
 {% include datedechoix.liquid %}
 

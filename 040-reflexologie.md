@@ -4,7 +4,7 @@ permalink: reflexologie
 published: true
 ---
 
-# La réflexologie plantaire 
+# La réflexologie plantaire
 
 La réflexologie plantaire est une thérapie, et une science qui part du principe qu’il y a dans les pieds et les mains des zones correspondant aux différents organes (foie, cœur, poumons, reins…) et aux différents systèmes (hormonal, nerveux, digestif…). Cette thérapie, douce, consiste à exercer des pressions sur les différentes zones, et permet de soulager de nombreux maux du quotidien. Pourtant, il ne faut pas forcément être malade pour en ressentir les bénéfices… la réflexologie apporte d’énormes bienfaits que l’on souffre de troubles ou non !
 
@@ -20,7 +20,7 @@ Elle est très utile également dans l’accompagnement des maladies chroniques,
 
 ![](./images/zones-pieds-455x478.png)
 
-### Le drainage lymphatique par la réflexologie plantaire
+### Le drainage lymphatique par la réflexologie plantaire
 
 Une technique particulière faite de pressions douces, rythmiques et répétitives dans la profondeur des tissus. Idéal pour le traitement de maladies auto-immunes, de médication lourde, inflammations, fibromyalgie, grande nervosité, irritabilité, angoisses, stress, asthme, essoufflements, oppressions, hypertension, etc...
 Cette technique amène un effet calmant et apaisant.
