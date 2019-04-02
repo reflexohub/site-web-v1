@@ -32,3 +32,9 @@ Marc Ivo Bohning, formateur, et auteur du livre : Réflexologie amérindienne sp
 
 ![](./images/reflexoamerindienne.jpg){: width="400" }
 
+{% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}
+
+
+
