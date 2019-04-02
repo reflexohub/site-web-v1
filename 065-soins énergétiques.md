@@ -7,13 +7,13 @@ published: false
 # Soins énergétiques
 
 ### Access Bars
-
-Il s'agit d'un soin énergétique au cours duquel 32 points sont stimulés en douceur sur la tête.
-Ce soin permet de libérer les blocages, peurs, pensées, jugements, émotions, et mémoires négatives 
-qui ont été stockées dans le cerveau au fil du temps.
-
-La durée de ce soin est d'environ 60 minutes.
-
+ 
+Il s’agit d’un soin énergétique au cours duquel 32 points sont stimulés en douceur sur la tête.
+Ce soin permet de libérer les blocages, peurs, pensées, jugements, émotions, et mémoires négatives qui ont été stockées dans le cerveau au fil du temps…
+ 
+Je me réjouis de vous faire découvrir les « Bars d’Access »
+https://www.youtube.com/watch?v=Cc4Kx6bJSvM (vidéo explicative)
+ 
 
 ### Réflexologie amérindienne
 
