@@ -12,8 +12,7 @@ Il s’agit d’un soin énergétique au cours duquel 32 points sont stimulés e
 Ce soin permet de libérer les blocages, peurs, pensées, jugements, émotions, et mémoires négatives qui ont été stockées dans le cerveau au fil du temps…
  
 Je me réjouis de vous faire découvrir les « Bars d’Access »
-https://www.youtube.com/watch?v=Cc4Kx6bJSvM (vidéo explicative)
- 
+[*Vidéo explicative*](https://www.youtube.com/watch?v=Cc4Kx6bJSvM) 
 
 ### Réflexologie amérindienne
 
