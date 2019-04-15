@@ -21,7 +21,9 @@ Réflexo-Lignon, espace de détente et bien-être.
 
 [La réflexologie de la boîte crânienne](./autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
 
-NOUVEAU : [Reflexo-Dos](./autres_soins) — La réflexologie combinée avec le massage assis.
+NOUVEAU : [Soins énergétiques](./soins énergétiques)
+- Access Bars
+- Réflexologie Amérindienne
 
 En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
