@@ -18,7 +18,7 @@ Je me réjouis de vous faire découvrir les « Bars d’Access »
 
 Tout sauf à quoi on s'attend dans une réflexologie mais grâce à celà : bien plus que l'on osait espérer !
 
-Les reflexologies sont de belles méthodes de soin. La réflexologie amérindienne spirituelle va plus loin et emploie surtouut une porte d'entrée toute autre.
+Les reflexologies sont de belles méthodes de soin. La réflexologie amérindienne spirituelle va plus loin et emploie surtout une porte d'entrée toute autre.
 
 Elle permet un travail très en profondeur, un travail personnel intense par une re visite et un équilibrage de ses émotions, de sa pensée et dde sa manière de laisser le monde nous influencer. 
 
