@@ -29,7 +29,7 @@ Tout en douceur, rien d'agressivement intrusif, le soin est en les mains de celu
 Facile comme tout, doux comme une caresse, beau comme un bijou, bon comme du chocolat et profond comme une pensée. Du plaisir à tous !
 Marc Ivo Bohning, formateur, et auteur du livre : Réflexologie amérindienne spirituelle ou "points mexicains"
 
-![](./images/reflexoamerindienne.jpg){: width="400" }
+![](./images/reflexoamerindienne.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
 
 {% include datedechoix.liquid %}
 
