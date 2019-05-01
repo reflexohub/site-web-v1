@@ -19,6 +19,8 @@ Je me réjouis de vous faire découvrir les « Bars d’Access »
 Le lifting facial énergétique est une technique spécifique d'Access Consciousness, pour le corps et l'esprit.
 Sans aiguilles ni produits, donne un aspect "coup d'éclat" au visage. Répété une vingtaine de fois, l'effet semble permanent. Cette technique spécifique exercée sur le haut du buste, la nuque, le cou, le visage et le crâne a un effet extrêmement relaxant sur le corps en entier. 
 
+![](./images/facelift.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
+
 
 ### Réflexologie amérindienne
 
