@@ -23,11 +23,13 @@ Réflexo-Lignon, espace de détente et bien-être.
 
 [Reflexo-Dos](./autres_soins) - La réflexologie combinée avec le massage assis
 
+En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
+
 NOUVEAU : [Soins énergétiques](./soins_énergétiques)
 - Access Bars : 32 points stimulés en douceur sur la tête.
+- Lifting facial énergétique : Sans aiguilles ni produits, donne un aspect "coup d'éclat" au visage
 - Réflexologie Amérindienne : Tout sauf à quoi on s’attend dans une réflexologie mais grâce à celà : bien plus que l’on osait espérer !
 
-En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
