@@ -6,6 +6,8 @@ published: true
 
 # Tarifs
 
+## Réflexologies
+
 - Réflexologie plantaire (découverte et/ou bien-être)
 - Réflexologie de la boîte crânienne
 CHF 50.- la séance de 30 minutes
@@ -27,6 +29,15 @@ CHF 120.- la séance de 75 minutes
 CHF 140.- la séance de 90 minutes
 
 Les séances d’oncoréflexologie peuvent être plus courtes, le prix est adapté en conséquence.
+
+## Soins énergétiques
+
+- Réflexologie amérindienne
+- Access Bars
+CHF 100.- la séance de 60 minutes
+
+- Lifting facial énergétique
+CHF 120.- la séance de 75 minutes
 
 ## Abonnement
 
