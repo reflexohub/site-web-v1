@@ -14,6 +14,12 @@ Ce soin permet de libérer les blocages, peurs, pensées, jugements, émotions, 
 Je me réjouis de vous faire découvrir les « Bars d’Access »
 [*Vidéo explicative*](https://www.youtube.com/watch?v=Cc4Kx6bJSvM) 
 
+### Lifting facial énergétique
+
+Le lifting facial énergétique est une technique spécifique d'Access Consciousness, pour le corps et l'esprit.
+Sans aiguilles ni produits, donne un aspect "coup d'éclat" au visage. Répété une vingtaine de fois, l'effet semble permanent. Cette technique spécifique exercée sur le haut du buste, la nuque, le cou, le visage et le crâne a un effet extrêmement relaxant sur le corps en entier. 
+
+
 ### Réflexologie amérindienne
 
 Tout sauf à quoi on s'attend dans une réflexologie mais grâce à celà : bien plus que l'on osait espérer !
