@@ -6,6 +6,15 @@ published: true
 
 # Autres soins
 
+### Réflexologie palmaire
+
+Il ne s’agit pas que d’un simple massage des mains. C’est une réflexologie qui mériterait d’être beaucoup plus connue ! Les bienfaits sont très nombreux. Généralement pratiquée sur une table de massage, elle apporte une grande détente, est très efficace pour se relaxer et éliminer toutes les tensions accumulées. Elle permet également de soulager de nombreux maux du quotidien.
+L’avantage de la réflexologie palmaire est qu’elle est beaucoup plus facile à faire lorsque l’accès au pieds est devenu difficile, par exemple pour les personnes âgées, ou handicapées, mais pas que…. Elle peut aussi être un excellent complément à la réflexologie plantaire, car elle permet de faire certains points en auto-massage.  
+N’hésitez pas à tester la réflexologie palmaire, très agréable, relaxante, mais également très efficace. Une vraie et complète séance de réflexologie ! 
+
+![](./images/reflexo-main.jpg){: width="400" }
+
+
 ### Reflexo-dos
 
 La réflexologie plantaire ou crânienne combinée avec le massage assis.
