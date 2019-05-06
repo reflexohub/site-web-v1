@@ -19,6 +19,8 @@ Réflexo-Lignon, espace de détente et bien-être.
 
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
+[La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n'hésitez pas à découvrir cette méthode trop peu connue. 
+
 [La réflexologie de la boîte crânienne](./autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
 
 [Reflexo-Dos](./autres_soins) - La réflexologie combinée avec le massage assis
