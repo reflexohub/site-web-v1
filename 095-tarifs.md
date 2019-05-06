@@ -12,6 +12,9 @@ published: true
 - Réflexologie de la boîte crânienne
 CHF 50.- la séance de 30 minutes
 
+- Réflexologie palmaire (des mains)
+CHF 80.- la séance de 50 minutes
+
 - Réflexologie plantaire (bien-être et thérapeutique)
 - Réflexologie de la boîte crânienne
 - Réflexologie de la tête aux pieds
