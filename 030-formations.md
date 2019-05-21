@@ -18,6 +18,7 @@ published: true
 - Magnétisme, niveau 1<br/>*Centre Holoïde, Sion, 2017*
 - Magnétisme, niveau 2<br/>*Centre Holoïde, Sion, 2018*
 - Réflexologie amérindienne<br/>*Proreflexo, Genève, 2018*
+- Réflexologie palmaire<br/>*HP Formation, Genève, 2019*
 
 {% include datedechoix.liquid %}
 
