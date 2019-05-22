@@ -58,7 +58,7 @@ Profitez-en !
 Également bons cadeaux à CHF 50.-
 pour offrir 30 minutes de réflexologie
 
-[![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](http://192.168.1.121:8000/bons-cadeaux)
+[![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
 À bientôt, Suzanne
 
