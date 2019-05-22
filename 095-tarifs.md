@@ -48,15 +48,16 @@ CHF 490.- pour 7 séances de 60 minutes
 
 ## Bons cadeaux
 
-**Pensez à vos proches et à vos amis, offrez-leur une séance de réflexologie**
+**Pensez à vos proches et à vos amis,**
+**offrez-leur une séance de réflexologie.**
 
 Un bon cadeau acheté (CHF 100.-), votre prochaine
-séance de réflexologie à moitié prix (CHF 50.-)
+séance de réflexologie à moitié prix (CHF 50.-).
 
 Profitez-en !
 
 Également bons cadeaux à CHF 50.-
-pour offrir 30 minutes de réflexologie
+pour offrir 30 minutes de réflexologie.
 
 [![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
