@@ -39,6 +39,10 @@ published: true
 Les séances d’oncoréflexologie peuvent être plus courtes,
 le prix est adapté en conséquence.
 
+### Abonnement 7 séances de 60 minutes
+
+**CHF 490.- pour 7 séances de 60 minutes**
+
 ## Soins énergétiques
 
 ### Réflexologie amérindienne<br/>et *Access Bars* (60 min)
@@ -46,10 +50,6 @@ le prix est adapté en conséquence.
 
 ### Lifting facial énergétique (75 min)
 **CHF 120.- la séance de 75 minutes**
-
-### Abonnement 7 séances de 60 minutes
-
-**CHF 490.- pour 7 séances de 60 minutes**
 
 ## Bons cadeaux
 
