@@ -41,16 +41,15 @@ le prix est adapté en conséquence.
 
 ## Soins énergétiques
 
-- Réflexologie amérindienne
-- Access Bars
-CHF 100.- la séance de 60 minutes
+### Réflexologie amérindienne<br/>et *Access Bars* (60 min)
+**CHF 100.- la séance de 60 minutes**
 
-- Lifting facial énergétique
-CHF 120.- la séance de 75 minutes
+### Lifting facial énergétique (75 min)
+**CHF 120.- la séance de 75 minutes**
 
-## Abonnement
+### Abonnement 7 séances de 60 minutes
 
-CHF 490.- pour 7 séances de 60 minutes
+**CHF 490.- pour 7 séances de 60 minutes**
 
 ## Bons cadeaux
 
