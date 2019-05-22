@@ -9,13 +9,6 @@ published: true
 **Pensez à vos proches et à vos amis,**
 **offrez-leur une séance de réflexologie.**
 
-Un bon cadeau acheté (CHF 100.-), votre prochaine
-séance de réflexologie à moitié prix (CHF 50.-).
-
-Profitez-en !
-
-Également bons cadeaux à CHF 50.-
-pour offrir 30 minutes de réflexologie.
 
 À bientôt, Suzanne
 
