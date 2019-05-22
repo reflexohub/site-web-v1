@@ -36,12 +36,6 @@ En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie)
 - Réflexologie amérindienne : Tout sauf à quoi on s’attend dans une réflexologie mais grâce à celà : bien plus que l’on osait espérer !
 
 
-37 Avenue du Lignon
-1219 Le Lignon (Genève)
-Suisse
-[suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
-<i class="fa fa-mobile"></i> +41 78 946 48 88
-
 ## Témoignage
 
 *Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée, un vrai bonheur, même quand elle touche un point sensible, le soulagement et le bien-être arrivent très vite. Merci Suzanne.*
@@ -57,6 +51,11 @@ Suisse
 Au plaisir de vous rencontrer,
 
 [Suzanne Himmelberger](./presentation)
+37 Avenue du Lignon
+1219 Le Lignon (Genève)
+Suisse
+[suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
+<i class="fa fa-mobile"></i> +41 78 946 48 88
 
 {% include datedechoix.liquid %}
 
