@@ -8,30 +8,36 @@ published: true
 
 ## Réflexologies
 
+### Réflexo plantaire découverte (30 min)
 - Réflexologie plantaire (découverte et/ou bien-être)
 - Réflexologie de la boîte crânienne
-CHF 50.- la séance de 30 minutes
+**CHF 50.- la séance de 30 minutes**
 
+### Réflexo des mains (50 min)
 - Réflexologie palmaire (des mains)
-CHF 80.- la séance de 50 minutes
+**CHF 80.- la séance de 50 minutes**
 
+### Réflexo pieds-tête-dos (60 min)
 - Réflexologie plantaire (bien-être et thérapeutique)
 - Réflexologie de la boîte crânienne
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
-CHF 100.- la séance de 60 minutes
+**CHF 100.- la séance de 60 minutes**
 
+### Réflexo pieds-tête-dos (75 min)
 - Réflexologie plantaire
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
-CHF 120.- la séance de 75 minutes
+**CHF 120.- la séance de 75 minutes**
 
+### Réflexo pieds-tête-dos + Massage assis (90 min)
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 - Réflexologie de la tête aux pieds + Massage assis
-CHF 140.- la séance de 90 minutes
+**CHF 140.- la séance de 90 minutes**
 
-Les séances d’oncoréflexologie peuvent être plus courtes, le prix est adapté en conséquence.
+Les séances d’oncoréflexologie peuvent être plus courtes,
+le prix est adapté en conséquence.
 
 ## Soins énergétiques
 
