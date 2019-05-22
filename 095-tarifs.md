@@ -8,7 +8,7 @@ published: true
 
 ## Réflexologies
 
-### Réflexo plantaire découverte (30 min)
+### Séances bien-être & découverte (30 min)
 - Réflexologie plantaire (découverte et/ou bien-être)
 - Réflexologie de la boîte crânienne
 **CHF 50.- la séance de 30 minutes**
@@ -30,7 +30,7 @@ published: true
 - Réflexo-dos
 **CHF 120.- la séance de 75 minutes**
 
-### Réflexo pieds-tête-dos<br/>+ Massage assis (90 min)
+### Réflexo pieds-tête-dos (90 min)
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 - Réflexologie de la tête aux pieds + Massage assis
@@ -56,13 +56,8 @@ le prix est adapté en conséquence.
 **Pensez à vos proches et à vos amis,**
 **offrez-leur une séance de réflexologie.**
 
-Un bon cadeau acheté (CHF 100.-), votre prochaine
-séance de réflexologie à moitié prix (CHF 50.-).
+Nouveau : Commandez votre "bon cadeau" en ligne !
 
-Profitez-en !
-
-Également bons cadeaux à CHF 50.-
-pour offrir 30 minutes de réflexologie.
 
 [![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
