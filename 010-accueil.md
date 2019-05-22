@@ -6,8 +6,8 @@ remove-prev-next-button-bottom: true
 ---
 
 # Réflexo Lignon
-## Suzanne Himmelberger
 
+## Suzanne Himmelberger
 
 ## Bienvenue
 
@@ -19,18 +19,21 @@ Réflexo-Lignon, espace de détente et bien-être.
 
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
-[La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n'hésitez pas à découvrir cette méthode trop peu connue. 
+[La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
 
 [La réflexologie de la boîte crânienne](./autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
 
-[Reflexo-Dos](./autres_soins) - La réflexologie combinée avec le massage assis
+[Reflexo-Dos](./autres_soins) — La réflexologie combinée avec le massage assis.
 
 En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
-NOUVEAU : [Soins énergétiques](./soins_énergétiques)
-- Access Bars : 32 points stimulés en douceur sur la tête.
-- Lifting facial énergétique : Sans aiguilles ni produits, donne un aspect "coup d'éclat" au visage
-- Réflexologie Amérindienne : Tout sauf à quoi on s’attend dans une réflexologie mais grâce à celà : bien plus que l’on osait espérer !
+## Nouveau
+
+[Soins énergétiques](./soins_énergétiques)
+
+- *Access Bars* : 32 points stimulés en douceur sur la tête.
+- Lifting facial énergétique : Sans aiguilles ni produits, donne un aspect “coup d’éclat” au visage.
+- Réflexologie amérindienne : Tout sauf à quoi on s’attend dans une réflexologie mais grâce à celà : bien plus que l’on osait espérer !
 
 
 37 Avenue du Lignon
@@ -39,8 +42,13 @@ Suisse
 [suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
 <i class="fa fa-mobile"></i> +41 78 946 48 88
 
+## Témoignage
+
 *Une heure de pure détente suivie de nombreux jours soulagée de mes petits bobos. Suzanne a des doigts de fée, un vrai bonheur, même quand elle touche un point sensible, le soulagement et le bien-être arrivent très vite. Merci Suzanne.*
+
 [Autres témoignages](./temoignages)
+
+## Bon à savoir
 
 Étant une spécialiste agréée par l’[*ASCA*](http://www.asca.ch/dc.aspx?content=Assureurs_conventionnes), mes séances sont remboursées par certaines assurances complémentaires.
 

@@ -51,7 +51,7 @@ This is needed to filter out CSS files. -->
 		{% for thispage in site.pages %}
 			{% if thispage.title %}
 				{% if thispage.title != page.title %}
-					{% unless thispage.not_in_prev_next %}
+					{% unless thispage.not_in_prev_next == true %}
 						{% assign CurrentPage = "" %}
 						{% capture CurrentLink %}{{ site.url }}{{ site.baseurl }}{{ thispage.url }}{% endcapture %}
 		<a class="custom-menu-item{{ CurrentPage }}" href="{{ CurrentLink }}">
