@@ -30,7 +30,7 @@ published: true
 - Réflexo-dos
 **CHF 120.- la séance de 75 minutes**
 
-### Réflexo pieds-tête-dos + Massage assis (90 min)
+### Réflexo pieds-tête-dos<br/>+ Massage assis (90 min)
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 - Réflexologie de la tête aux pieds + Massage assis
