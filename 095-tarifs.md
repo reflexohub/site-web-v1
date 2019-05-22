@@ -33,7 +33,7 @@ published: true
 ### Réflexo pieds-tête-dos (90 min)
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
-- Réflexologie de la tête aux pieds + Massage assis
+- Réflexo-dos + tête aux pieds
 **CHF 140.- la séance de 90 minutes**
 
 Les séances d’oncoréflexologie peuvent être plus courtes,
