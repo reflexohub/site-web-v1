@@ -27,13 +27,19 @@ Réflexo-Lignon, espace de détente et bien-être.
 
 En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
-## Nouveau
-
 [Soins énergétiques](./soins_énergétiques)
 
 - *Access Bars* : 32 points stimulés en douceur sur la tête.
 - Lifting facial énergétique : Sans aiguilles ni produits, donne un aspect “coup d’éclat” au visage.
 - Réflexologie amérindienne : Tout sauf à quoi on s’attend dans une réflexologie mais grâce à celà : bien plus que l’on osait espérer !
+
+## Nouveau
+
+
+Commandez votre "bon cadeau" en ligne !
+
+
+[![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
 
 ## Témoignage
