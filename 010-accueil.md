@@ -19,7 +19,7 @@ remove-prev-next-button-bottom: true
 
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
-**NOUVEAU : Réflexologie spécifique dans le cas de troubles du sommeil
+**NOUVEAU : Réflexologie spécifique dans le cas de troubles du sommeil**
 
 [La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
 
