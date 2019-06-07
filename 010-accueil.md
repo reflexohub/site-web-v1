@@ -15,9 +15,11 @@ remove-prev-next-button-bottom: true
 
 ![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
-Réflexo-Lignon, espace de détente et bien-être.
+## Réflexo-Lignon, espace de détente et bien-être.
 
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
+
+**NOUVEAU : Réflexologie spécifique dans le cas de troubles du sommeil
 
 [La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
 
