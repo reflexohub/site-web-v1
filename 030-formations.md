@@ -19,6 +19,7 @@ published: true
 - Magnétisme, niveau 2<br/>*Centre Holoïde, Sion, 2018*
 - Réflexologie amérindienne<br/>*Proreflexo, Genève, 2018*
 - Réflexologie palmaire<br/>*HP Formation, Genève, 2019*
+- Réflexologie thérapeutique : troubles du sommeil<br/>*Escale Santé, Genève, 2019*
 
 {% include datedechoix.liquid %}
 
