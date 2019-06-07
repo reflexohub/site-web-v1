@@ -20,6 +20,14 @@ Elle est très utile également dans l’accompagnement des maladies chroniques,
 
 ![](./images/zones-pieds-455x478.png)
 
+### La réflexologie en cas de troubles du sommeil
+
+Le sommeil occupe un tiers de la vie de l'être humain. Il est indispensable à l'équilibre physique et psychique de toute personne.
+
+Il est donc primordial de maximiser son temps de sommeil pour préserver sa santé. Cependant, de nombreuses pathologies, regroupées sous le terme de troubles du sommeil peuvent limiter le temps précieux d'endormissement requis par l'organisme : insomnies, ronflements, apnée, bruxisme, syndrome des jambes sans repos, etc...
+
+Ce travail spécifique en réflexologie consiste à rééquilibrer l'organisme en stimulant les zones reflexes concernées, dans le but d'améliorer les symptomes, et de retrouver un sommeil plus réparateur. 
+
 ### Le drainage lymphatique par la réflexologie plantaire
 
 Une technique particulière faite de pressions douces, rythmiques et répétitives dans la profondeur des tissus. Idéal pour le traitement de maladies auto-immunes, de médication lourde, inflammations, fibromyalgie, grande nervosité, irritabilité, angoisses, stress, asthme, essoufflements, oppressions, hypertension, etc...
