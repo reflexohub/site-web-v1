@@ -17,11 +17,11 @@ remove-prev-next-button-bottom: true
 
 ## Réflexo-Lignon, espace de détente et bien-être.
 
-**INFORMATION : Le cabinet de réflexologie sera fermé du 22 juillet au 2 août inclus. Je serai présente au stand de la Mobilière au Paleo festival du 23 au 28 juillet ou je ferai des massages assis. N'hésitez pas à venir vous faire masser, les massages sont offerts par la Mobilière.**
-
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
 **NOUVEAU : Réflexologie spécifique en cas de troubles du sommeil**
+
+[La réflexologie spécifique en cas de troubles du sommeil](./reflexologie) consiste à rééquilibrer l’organisme en stimulant les zones reflexes concernées, dans le but d’améliorer les symptomes, et de retrouver un sommeil plus réparateur.
 
 [La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
 
