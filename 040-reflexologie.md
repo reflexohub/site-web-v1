@@ -26,7 +26,7 @@ Le sommeil occupe un tiers de la vie de l'être humain. Il est indispensable à 
 
 Il est donc primordial de maximiser son temps de sommeil pour préserver sa santé. Cependant, de nombreuses pathologies, regroupées sous le terme de troubles du sommeil peuvent limiter le temps précieux d'endormissement requis par l'organisme : insomnies, ronflements, apnée, bruxisme, syndrome des jambes sans repos, etc...
 
-Ce travail spécifique en réflexologie consiste à rééquilibrer l'organisme en stimulant les zones reflexes concernées, dans le but d'améliorer les symptomes, et de retrouver un sommeil plus réparateur. 
+Ce travail spécifique en réflexologie consiste à rééquilibrer l'organisme en stimulant les zones réflexes concernées, dans le but d'améliorer les symptômes, et de retrouver un sommeil plus réparateur. 
 
 ### Le drainage lymphatique par la réflexologie plantaire
 
