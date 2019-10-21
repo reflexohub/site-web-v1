@@ -15,11 +15,6 @@ Sandy Scheuring : [*L’instant précieux, Confignon, Genève*](http://massage-
 [*Centre Ocinquieme Sens*](http://www.ocinquieme.ch)
 
 
-**Réflexologie – Massages – Fleurs de Bach**
-
-France Riondel :
-[*Harmonie Santé*](http://www.harmoniesante.ch)
-
 
 **Réflexologie – Massages – Hypnose**
 
@@ -30,10 +25,6 @@ France Riondel :
 
 Isabelle Levrat : [*EFT-TBT.com*](http://eft-tbt.com)
 
-
-**Développement personnel avec le cheval**
-
-Alicia Manzoni : [*Equi-liberta*](http://www.equi-liberta.ch)
 
 
 **Géobiologie**
