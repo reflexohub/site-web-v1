@@ -20,6 +20,8 @@ published: true
 - Réflexologie amérindienne<br/>*Proreflexo, Genève, 2018*
 - Réflexologie palmaire<br/>*HP Formation, Genève, 2019*
 - Réflexologie thérapeutique : troubles du sommeil<br/>*Escale Santé, Genève, 2019*
+- Réflexologie appliquée : le mal de dos<br/>*Escale Santé, Genève, 2019*
+- Points réflexes Neuro-Lymphatiques : application thérapeutique sur la fonction uro-génitale<br/>*Escale Santé, Genève, 2019*
 
 {% include datedechoix.liquid %}
 
