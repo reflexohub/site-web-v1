@@ -13,7 +13,7 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-## ‼️ COVID 19, FERMETURE TEMPORAIRE DU CABINET DE RÉFLEXOLOGIE ‼️ ##
+# ‼️ Covid 19, Fermeture temporaire du cabinet de réflexologie ‼️ #
 
 Après beaucoup de réflexion, la situation concernant le COVID 19 qui évolue extrêmement rapidement, la sagesse m’a fait prendre la décision de fermer mon cabinet de réflexologie, le temps que cette pandémie se calme un peu. Il est très important d’être tous solidaires et protéger toutes les personnes à risque ainsi que nos aînés. Je pense également à tout le personnel soignant.
 Je ne manquerai pas de vous tenir informé(e)s de la réouverture du cabinet. A très bientôt.
