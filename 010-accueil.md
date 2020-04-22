@@ -13,7 +13,7 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-[![Réouverture cabinet](./images/Réouverture cabinet.png){: style="margin-top:50px;margin-bottom:50px;" }
+## Info réouverture du cabinet 
 
 J'ai le plaisir de pouvoir vous annoncer la réouverture de mon cabinet de réflexologie dès le mardi 12 mai 2020.
 Afin de suivre les recommandations en matière de sécurité et d’hygiène, des masques ainsi que de la solution hydroalcoolique seront à votre disposition durant la séance. La réflexologie peut vous aider en cas de stress, d'anxiété, de troubles du sommeil, et peut également stimuler les défenses immunitaires.
