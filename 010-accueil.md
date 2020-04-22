@@ -13,8 +13,13 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-[![Réouverture du cabinet](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
+[![Réouverture du cabinet](./images/Réouverture cabinet.png){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./Réouverture cabinet)
 
+J'ai le plaisir de pouvoir vous annoncer la réouverture de mon cabinet de réflexologie dès le mardi 12 mai 2020.
+Afin de suivre les recommandations en matière de sécurité et d’hygiène, des masques ainsi que de la solution hydroalcoolique seront à votre disposition durant la séance. La réflexologie peut vous aider en cas de stress, d'anxiété, de troubles du sommeil, et peut également stimuler les défenses immunitaires.
+N'hésitez pas à prendre rdv...
+A très bientôt
+Suzanne
 
 ![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
