@@ -13,11 +13,8 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-# ‼️ Covid 19, Fermeture temporaire du cabinet de réflexologie ‼️ #
+[![Réouverture du cabinet](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
-Après beaucoup de réflexion, la situation concernant le COVID 19 qui évolue extrêmement rapidement, la sagesse m’a fait prendre la décision de fermer mon cabinet de réflexologie, le temps que cette pandémie se calme un peu. Il est très important d’être tous solidaires et protéger toutes les personnes à risque ainsi que nos aînés. Je pense également à tout le personnel soignant.
-Je ne manquerai pas de vous tenir informé(e)s de la réouverture du cabinet. A très bientôt.
-Portez-vous bien 🙏
 
 ![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
