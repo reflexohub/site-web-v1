@@ -44,7 +44,7 @@ En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie)
 - Lifting facial énergétique : Sans aiguilles ni produits, donne un aspect “coup d’éclat” au visage.
 - Réflexologie amérindienne : Tout sauf à quoi on s’attend dans une réflexologie mais grâce à celà : bien plus que l’on osait espérer !
 
-## Pensez au bon cadeau
+## Une idée de cadeau originale 
 
 
 Commandez votre "bon cadeau" en ligne !
