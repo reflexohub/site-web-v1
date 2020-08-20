@@ -39,9 +39,10 @@ published: true
 Les séances d’oncoréflexologie peuvent être plus courtes,
 le prix est adapté en conséquence.
 
-### Abonnement 7 séances de 60 minutes
+### Abonnements 
 
 **CHF 490.- pour 7 séances de 60 minutes**
+**CHF 630.- pour 6 séances de 90 minutes**
 
 ## Soins énergétiques
 
