@@ -15,6 +15,10 @@ remove-prev-next-button-bottom: true
 
 ## Infos COVID 19
 
+Suite aux décisions du conseil d'état et du semi-confinement désormais en vigueur à Genève, je vous informe que le cabinet de réflexologie est temporairement fermé jusqu'au 29 novembre. 
+En espérant vous revoir très vite.
+Prenez soin de vous.
+
 En cas de toux, fièvre, ou si vous avez un doute sur votre état de santé, je vous remercie de rester à la maison. Téléphonez moi ou envoyez moi ou envoyez moi un message pour annuler votre rendez-vous.
 Afin de suivre les recommandations en matière de sécurité et d’hygiène, des masques ainsi que de la solution hydroalcoolique sont à votre disposition pour la séance. 
 La réflexologie peut vous aider en cas de stress, d'anxiété, de troubles du sommeil, et peut également stimuler les défenses immunitaires.
