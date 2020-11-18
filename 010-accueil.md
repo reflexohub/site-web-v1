@@ -15,8 +15,9 @@ remove-prev-next-button-bottom: true
 
 ## Infos COVID 19
 
-Suite aux décisions du conseil d'état et du semi-confinement désormais en vigueur à Genève, je vous informe que le cabinet de réflexologie est temporairement fermé jusqu'au 29 novembre. 
-En espérant vous revoir très vite.
+Suite aux décisions du conseil d'état et du semi-confinement désormais en vigueur à Genève, je vous informe que le cabinet de réflexologie est temporairement fermé jusqu'au 20 novembre. 
+Réouverture du cabinet le lundi 23 novembre. 
+A très vite.
 Prenez soin de vous.
 
 En cas de toux, fièvre, ou si vous avez un doute sur votre état de santé, je vous remercie de rester à la maison. Téléphonez moi ou envoyez moi ou envoyez moi un message pour annuler votre rendez-vous.
