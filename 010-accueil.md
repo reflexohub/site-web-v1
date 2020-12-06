@@ -71,7 +71,7 @@ Au plaisir de vous rencontrer,
 37 Avenue du Lignon
 1219 Le Lignon (Genève)
 Suisse
-[suzanne.himmelberger@gmail.com](mailto:suzanne.himmelberger@gmail.com)
+[reflexolignon@gmail.com](mailto:reflexolignon@gmail.com)
 <i class="fa fa-mobile"></i> +41 78 946 48 88
 
 {% include datedechoix.liquid %}
