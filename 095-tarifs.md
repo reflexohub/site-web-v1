@@ -43,7 +43,7 @@ le prix est adapté en conséquence.
 
 **CHF 490.- pour 7 séances de 60 minutes**
 **CHF 630.- pour 7 séances de 75 minutes**
-**CHF 770.- pour 7 séances de 90 minutes
+**CHF 770.- pour 7 séances de 90 minutes**
 
 ## Soins énergétiques
 
