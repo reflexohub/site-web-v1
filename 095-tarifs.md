@@ -17,20 +17,20 @@ published: true
 - Réflexologie palmaire (des mains)
 **CHF 80.- la séance de 50 minutes**
 
-### Réflexo pieds-tête-dos (60 min)
+### Séances réflexologie (60 min)
 - Réflexologie plantaire (bien-être et thérapeutique)
 - Réflexologie de la boîte crânienne
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 **CHF 100.- la séance de 60 minutes**
 
-### Réflexo pieds-tête-dos (75 min)
+### Séances réflexologie (75 min)
 - Réflexologie plantaire
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 **CHF 120.- la séance de 75 minutes**
 
-### Réflexo pieds-tête-dos (90 min)
+### Séances réflexologie (90 min)
 - Réflexologie de la tête aux pieds
 - Réflexo-dos
 - Réflexo-dos + tête aux pieds
