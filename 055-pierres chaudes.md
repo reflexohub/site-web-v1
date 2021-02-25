@@ -1,12 +1,11 @@
 ---
-title: massage assis
-permalink: massage-assis
+title: massages aux pierres chaudes
+permalink: massages aux pierres chaudes
 published: false
 ---
 
-# Massage assis & Réflexologie au Montreux-Jazz festival.
+# Massages et réflexologie aux pierres chaudes
 
-### Du 1.07.2016 au 16.07.2016
 
 Je fais partie d’un groupe de thérapeutes indépendants, et nous nous regroupons spécialement pour vous pendant toute la durée des festivités du Montreux-Jazz au mois de juillet.
 Notre Espace Détente se situe au Parc Filletaz, au beau milieu du festival off.
