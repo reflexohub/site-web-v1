@@ -4,7 +4,7 @@ permalink: massages aux pierres chaudes
 published: true
 ---
 
-# Massages aux pierres chaudes
+# Massage aux pierres chaudes
 
 
 Découvrez la douceur des pierres volcanique et laissez-vous envelopper par une vague de chaleur. Ce soin conjugue les bienfaits d'un massage relaxant avec le travail en profondeur par les pierres qui diffusent une douce chaleur à tout l'organisme, et procurent une profonde sensation de bien-être et de relachement. 
