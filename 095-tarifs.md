@@ -85,6 +85,8 @@ Nouveau : Commandez votre "bon cadeau" en ligne !
 
 [![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
+En cas de modification ou annulation d'un rendez-vous, je vous remercie de m’en informer au plus tard un jour ouvrable à l’avance. J’accepte les paiements par carte Visa, Mastercard, Maestro, American Express, Vpay, Twint et Cash.
+
 À bientôt, Suzanne
 
 {% include datedechoix.liquid %}
