@@ -24,7 +24,6 @@ Découvrez la douceur des pierres volcanique et laissez-vous envelopper par une 
 
 
 
-### Tarif : CHF 120.- pour 60 minutes
 
 {% include datedechoix.liquid %}
 
