@@ -20,7 +20,7 @@ Découvrez la douceur des pierres volcanique et laissez-vous envelopper par une 
 - Adoucit et assouplit la peau
 - Procure détente et bien-être
 
-![](./images/pierres1.png)
+![](./images/Pierres1.png)
 
 
 
