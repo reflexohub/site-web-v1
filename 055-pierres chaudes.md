@@ -4,31 +4,27 @@ permalink: massages aux pierres chaudes
 published: false
 ---
 
-# Massages et réflexologie aux pierres chaudes
+# Massages aux pierres chaudes
 
 
-Je fais partie d’un groupe de thérapeutes indépendants, et nous nous regroupons spécialement pour vous pendant toute la durée des festivités du Montreux-Jazz au mois de juillet.
-Notre Espace Détente se situe au Parc Filletaz, au beau milieu du festival off.
+Découvrez la douceur des pierres volcanique et laissez-vous envelopper par une vague de chaleur. Ce soin conjugue les bienfaits d'un massage relaxant avec le travail en profondeur par les pierres qui diffusent une douce chaleur à tout l'organisme, et procurent une profonde sensation de bien-être et de relachement. 
 
-![](./images/equipe-montreux.jpg)
+![](./images/wellness-955796_1920.jpg)
 
-Nous vous proposons des séances de
-Massage Assis :
-Le AMMA ASSIS se traduit par « calmer avec les mains »
-La personne est assise sur une chaise dont l’ergonomie spécifique s’adapte à toutes les morphologies, et permet un lâcher-prise très rapide.
-Le toucher s’effectue à travers les vêtements, ce qui sécurise ceux qui se font masser pour la première fois. (il n’y a donc pas d’utilisation d’huile ou de crème)
-Dans la pratique du Massage Assis, nous utilisons la stimulation exercée par une pression sur des points sensibles appelés *Tsubos*, le long des lignes des méridiens suivant la tête, la nuque, les épaules, le dos, les hanches, les bras, les mains.
+### Les bienfaits du massage aux pierres chaudes sont multiples : 
 
-![](./images/massage-assis.jpg)
+- Soulage les tensions liées au stress
+- Relâche les tensions musculaires
+- Favorise la circulation sanguine et lymphatique
+- Aide à éliminer les toxines
+- Adoucit et assouplit la peau
+- Procure détente et bien-être
 
-Le Amma Assis peut être pratiqué en tout lieu, car il ne nécessite que de peu d’espace et s’adapte à l’environnement :
-Lieux de travail, *events*, lancement de produits, festivals...
+![](./images/pierres1.jpg)
 
-Cette technique traditionnelle de *wellness* reste la plus répandue au Japon, et tient une position importante dans le vaste choix des méthodes dites de Bien-être.
 
-### Pour votre bien-être et le bonheur de vos pieds, nous proposons également des séances de réflexologie
 
-### Tarif : CHF 30.- les 20 minutes
+### Tarif : CHF 120.- pour 60 minutes
 
 {% include datedechoix.liquid %}
 
