@@ -45,6 +45,26 @@ le prix est adapté en conséquence.
 **CHF 630.- pour 7 séances de 75 minutes**
 **CHF 770.- pour 7 séances de 90 minutes**
 
+## Massages aux pierres chaudes
+
+### Séances massage aux pierres chaudes (60 min)
+- Massage aux pierres chaudes
+**CHF 120.- la séance de 60 minutes
+
+### Séances massage aux pierres chaudes (1h15)
+- Massage aux pierres chaudes
+- Réflexologie plantaire (30 min.) + massage aux pierres chaudes (45 min.)
+**CHF 140.- la séance de 1h15
+
+### Séances massage aux pierres chaudes (1h30)
+- Massage aux pierres chaudes
+- Réflexologie plantaire (30 à 45 min.) + massage aux pierres chaudes
+**CHF 160.- la séance de 1h30
+
+### Séances de réflexologie + massage aux pierres chaudes (2h)
+- Réflexologie plantaire (60 min.) + massage aux pierres chaudes (60 min.)
+
+
 ## Soins énergétiques
 
 ### Réflexologie amérindienne<br/>et *Access Bars* (60 min)
