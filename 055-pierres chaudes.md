@@ -1,7 +1,7 @@
 ---
 title: massages aux pierres chaudes
 permalink: massages aux pierres chaudes
-published: false
+published: true
 ---
 
 # Massages aux pierres chaudes
