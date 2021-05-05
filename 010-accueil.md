@@ -13,15 +13,6 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-## Infos COVID 19
-
-En cas de toux, fièvre, ou si vous avez un doute sur votre état de santé, je vous remercie de rester à la maison. Téléphonez moi ou envoyez moi ou envoyez moi un message pour annuler votre rendez-vous.
-Afin de suivre les recommandations en matière de sécurité et d’hygiène, des masques ainsi que de la solution hydroalcoolique sont à votre disposition pour la séance. 
-La réflexologie peut vous aider en cas de stress, d'anxiété, de troubles du sommeil, et peut également stimuler les défenses immunitaires.
-Alors, n'hésitez pas à prendre rdv...
-A très bientôt
-Suzanne
-
 ![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }
 
 ## Réflexo-Lignon, espace de détente et bien-être.
