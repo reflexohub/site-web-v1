@@ -8,7 +8,7 @@ remove-prev-next-button-bottom: true
 # Réflexo Lignon
 
 ## Suzanne Himmelberger
-***Réflexologue diplômée***
+### Réflexologue diplômée ###
 
 ## Bienvenue
 
