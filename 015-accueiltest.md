@@ -1,7 +1,7 @@
 ---
 title: accueil
 permalink: /
-published: false
+published: true
 remove-prev-next-button-bottom: true
 ---
 
