@@ -1,6 +1,6 @@
 ---
 title: accueiltest
-permalink: /
+permalink: test
 published: true
 remove-prev-next-button-bottom: true
 ---
