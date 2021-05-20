@@ -1,7 +1,7 @@
 ---
 title: formations
 permalink: formations
-published: false
+published: true
 ---
 
 # Formations
