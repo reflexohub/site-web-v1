@@ -5,7 +5,8 @@ published: true
 ---
 
 # La réflexologie en oncologie
-## Soins de support
+
+![soins de support en oncologie](./images/onco-site.jpeg){: width="400" }
 
 Suite à ma formation en réflexologie, ayant été directement concernée par la maladie, j’ai choisi de faire une spécialisation en oncoréflexologie auprès de Pascale Chenoun qui pratique la réflexologie au Centre de cancérologie de l’hôpital de Tours en France.
 
