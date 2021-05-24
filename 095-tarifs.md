@@ -81,8 +81,6 @@ Nouveau : Commandez votre "bon cadeau" en ligne !
 
 
 
-À bientôt, Suzanne
-
 {% include datedechoix.liquid %}
 
 {% include facebook-actu.liquid %}
