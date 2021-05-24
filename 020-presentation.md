@@ -6,6 +6,8 @@ published: true
 
 # Présentation
 
+![](./images/portrait-asap.jpg){: width="400" }
+
 J’ai travaillé pendant 35 ans dans le milieu bancaire. Parallèlement, j’ai toujours été attirée par une activité dans le bien-être.
 
 J’ai découvert le massage *Amma assis* en 2006, et je pratique occasionnellement ce massage lors de manifestations.
