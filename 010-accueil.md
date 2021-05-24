@@ -79,3 +79,6 @@ Suisse
 <div style="margin-top: 20px"></div>
 
 {% include facebook-actu.liquid %}
+
+{% include prev-next-buttons.liquid %}
+
