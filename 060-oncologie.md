@@ -43,6 +43,12 @@ N’hésitez pas à me contacter pour de plus amples renseignements, et à en pa
 - [Les bienfaits de la réflexologie dans les soins palliatifs][2]
 
 
+
+[1]: http://www.clicbienetre.com/medecine/sante/les-bienfaits-de-la-reflexologie-en-cancerologie-7592#aqWyTBK5WM3egcJf.01
+
+[2]: http://www.actmd.org/articles/200902reflexosoinspalliatifsf.htm
+
+
 ❧
 
 **Attention, la réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.**
