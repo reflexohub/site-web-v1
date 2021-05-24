@@ -14,6 +14,10 @@ Suisse
 [reflexolignon@gmail.com](mailto:reflexolignon@gmail.com)
 <i class="fa fa-mobile"></i> +41 78 946 48 88
 
+---
+
+❧
+
 Le cabinet se situe en face du Centre Commercial du Lignon :
 **37 avenue du Lignon**
 
