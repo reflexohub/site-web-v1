@@ -1,7 +1,7 @@
 ---
 title: page test
 permalink: page test
-published: false
+published: true
 ---
 
 # La réflexologie plantaire
