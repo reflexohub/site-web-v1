@@ -29,7 +29,7 @@ remove-prev-next-button-bottom: true
 
 En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
 
-[![Réflexologie en conologie](./images/onco-site.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./oncologie)
+[![Réflexologie en oncologie](./images/onco-site.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./oncologie)
 
 
 ## Une idée de cadeau originale 
