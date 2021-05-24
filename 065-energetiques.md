@@ -4,7 +4,7 @@ permalink : energetiques
 published : false
 ---
 
-# Soins énergétiques
+# énergétiques
 
 ### *Access Bars*
 
