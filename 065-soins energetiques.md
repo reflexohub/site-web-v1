@@ -1,10 +1,10 @@
 ---
 title: soins-énergétiques
 permalink : soins-énergétiques
-published : true
+published : false
 ---
 
-# Soins énergétiques...
+# Soins énergétiques
 
 ### *Access Bars*
 
