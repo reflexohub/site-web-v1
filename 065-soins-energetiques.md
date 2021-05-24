@@ -1,7 +1,7 @@
 ---
 title: soins-energetiques
 permalink : soins-energetiques
-published : true
+published : false
 ---
 
 # Soins énergétiques
