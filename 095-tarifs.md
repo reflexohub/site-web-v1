@@ -77,7 +77,8 @@ Nouveau : Commandez votre "bon cadeau" en ligne !
 
 **En cas de modification ou annulation d'un rendez-vous, je vous remercie de m’en informer au plus tard un jour ouvrable à l’avance.** 
 
-![](./images/sumup-455x478.jpg)
+![](./images/sumup.jpg){: width="400" }
+
 
 
 À bientôt, Suzanne
