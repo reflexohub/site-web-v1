@@ -1,6 +1,6 @@
 ---
-title: page test
-permalink: page test
+title: pagetest
+permalink: pagetest
 published: false
 ---
 
