@@ -1,6 +1,6 @@
 ---
 title: autres réflexologies
-permalink: autres_soins
+permalink: autres reflexologies
 published: true
 ---
 
