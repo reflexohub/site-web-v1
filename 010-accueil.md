@@ -17,6 +17,8 @@ remove-prev-next-button-bottom: true
 [![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 ## Réflexo-Lignon, espace de détente et bien-être.
 
+[![Réflexologie](./images/pieds.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
+
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
 
 [La réflexologie spécifique en cas de troubles du sommeil](./reflexologie) consiste à rééquilibrer l’organisme en stimulant les zones reflexes concernées, dans le but d’améliorer les symptomes, et de retrouver un sommeil plus réparateur.
