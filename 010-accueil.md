@@ -14,7 +14,7 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
-![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }(./presentation)
+[![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 ## Réflexo-Lignon, espace de détente et bien-être.
 
 [La réflexologie plantaire](./reflexologie) permet entre autres de soulager les maux du quotidien et d’éliminer les tensions dues au stress.
