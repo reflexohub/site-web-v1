@@ -28,6 +28,7 @@ remove-prev-next-button-bottom: true
 [Reflexo-Dos](./autres_soins) — La réflexologie combinée avec le massage assis.
 
 En plus, j’ai une spécialisation de [réflexologie en oncologie](./oncologie). Il s’agit d’un soin de support pour accompagner les personnes atteintes du cancer en soulageant les douleurs et effets secondaires des traitements.
+[![Réflexologie en conologie](./images/onco-site.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./oncologie)
 
 
 ## Une idée de cadeau originale 
