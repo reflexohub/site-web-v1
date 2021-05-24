@@ -39,7 +39,9 @@ J'ai suivi une formation de **réflexologie en oncologie**, il s’agit d’un s
 [![Réflexologie en oncologie](./images/onco-site.jpeg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./oncologie)
 
 
+
 ❧
+
 
 
 **NOUVEAU : massage aux pierres chaudes pour une relaxation totale**
