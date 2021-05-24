@@ -1,7 +1,7 @@
 ---
 title: cabinet
 permalink: cabinet
-published: true
+published: false
 ---
 
 # Cabinet
