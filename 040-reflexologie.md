@@ -39,6 +39,12 @@ Une forme de réflexologie existait déjà du temps des pharaons ainsi que dans 
 
 La réflexologie contemporaine repose sur les recherches, au début du XXe siècle, du Dr Fitzgerald, mais c’est surtout à son assistante, l’américaine Eunice Ingham, dans les années 1930, que nous devons sa forme actuelle.
 
+**Quelques articles à propos de la réflexologie :**
+
+- [Les bienfaits de la réflexologie en cancérologie][1]
+- [Les bienfaits de la réflexologie dans les soins palliatifs][2]
+
+
 {% include datedechoix.liquid %}
 
 {% include facebook-actu.liquid %}
