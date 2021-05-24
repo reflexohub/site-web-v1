@@ -45,6 +45,24 @@ Ce massage comprend différentes manœuvres, pressions, et mobilisations :
 Il s’agit d’une méthode qui agit par la stimulation de certains points musculaires répartis sur tout le corps. L’effet est global et permet de dénouer les tensions présentes. Appliquée régulièrement, elle élimine toutes les sortes de douleurs, et augmente la vitalité. Le corps devient plus équilibré, plus résistant, et les points douloureux de plus en plus rares.
 Les points de la tête permettent de soulager de nombreux symptômes, tels que des céphalées, névralgies, sinusites, rhumes, douleurs de l’oreille, otites, douleurs de la nuque, etc.
 
+### Réflexologie amérindienne
+
+Tout, sauf ce à quoi on s’attend dans une réflexologie mais grâce à cela : bien plus que l’on osait espérer !
+
+Les réflexologies sont de belles méthodes de soin. La réflexologie amérindienne spirituelle va plus loin et emploie surtout une porte d’entrée tout autre.
+
+Elle permet un travail très en profondeur, un travail personnel intense par une revisite et un équilibrage de ses émotions, de sa pensée et de sa manière de laisser le monde nous influencer.
+
+Nous entrons ici dans une façon de nous prendre en charge dont nous n’avons pas forcément l’habitude et nous ne pouvons pas décharger notre responsabilité vers des causes de nos malêtres ou maladies à l’extérieur de nous. Nous ne pouvons déresponsabiliser notre soin dans des pastilles. Nous voyageons. En nous. Pour nous. Pour notre mieux-être et notre évolution/développement.
+
+Tout en douceur, rien d’agressivement intrusif, le soin est en les mains de celui qui le reçoit : c’est lui le véritable acteur et créateur de la séance. Le thérapeute n’est, comme il se doit, qu’une excuse pour ce que vivra le patient.
+
+Facile comme tout, doux comme une caresse, beau comme un bijou, bon comme du chocolat et profond comme une pensée. Du plaisir à tous !
+
+Marc Ivo Bohning, formateur, et auteur du livre : Réflexologie amérindienne spirituelle ou « points mexicains »
+
+![](./images/reflexoamerindienne.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
+
 **La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.**
 
 {% include datedechoix.liquid %}
