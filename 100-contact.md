@@ -40,11 +40,3 @@ Arrêt *Cité Lignon*
 {% include facebook-actu.liquid %}
 
 {% include datedechoix.liquid %}
-
-❧
-
-{% include facebook-button-2.liquid %}
-
-<div style="margin-top: 20px" />
-
-{% include facebook-actu.liquid %}
