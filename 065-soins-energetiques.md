@@ -1,10 +1,10 @@
 ---
-title: energetiques
-permalink : energetiques
-published : false
+title: soins-energetiques
+permalink : soins-energetiques
+published : true
 ---
 
-# énergétiques
+# Soins énergétiques
 
 ### *Access Bars*
 
