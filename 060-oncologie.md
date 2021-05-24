@@ -39,6 +39,8 @@ N’hésitez pas à me contacter pour de plus amples renseignements, et à en pa
 
 **Quelques articles à propos de la réflexologie en oncologie :**
 
+- [Les bienfaits de la réflexologie en cancérologie][3]
+- [Les bienfaits de la réflexologie dans les soins palliatifs][2]
 
 
 ❧
