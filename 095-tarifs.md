@@ -39,6 +39,9 @@ published: true
 Les séances d’oncoréflexologie peuvent être plus courtes,
 le prix est adapté en conséquence.
 
+### Réflexologie amérindienne (60 min)
+**CHF 100.- la séance de 60 minutes**
+
 ### Abonnements 
 
 **CHF 490.- pour 7 séances de 60 minutes**
@@ -66,14 +69,6 @@ le prix est adapté en conséquence.
 - Réflexologie plantaire (60 min.) + massage aux pierres chaudes (60 min.)
 **CHF 200.- la séance de 2h**
 
-
-## Soins énergétiques
-
-### Réflexologie amérindienne<br/>et *Access Bars* (60 min)
-**CHF 100.- la séance de 60 minutes**
-
-### Lifting facial énergétique (75 min)
-**CHF 120.- la séance de 75 minutes**
 
 ## Bons cadeaux
 
