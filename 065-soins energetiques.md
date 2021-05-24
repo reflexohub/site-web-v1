@@ -1,6 +1,6 @@
 ---
-title: soins-énergétiques
-permalink : soins-énergétiques
+title: soins_energetiques
+permalink : soins_energetiques
 published : false
 ---
 
