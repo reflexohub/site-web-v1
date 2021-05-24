@@ -1,10 +1,10 @@
 ---
-title: Je me présente 
+title: présentation
 permalink: presentation
 published: true
 ---
 
-# Présentation
+# Je me présente
 
 ![](./images/portrait-asap.jpg){: width="400" }
 
