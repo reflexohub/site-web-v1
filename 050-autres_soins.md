@@ -1,10 +1,10 @@
 ---
-title: autres soins
+title: autres réflexologies
 permalink: autres_soins
 published: true
 ---
 
-# Autres soins
+# Autres réflexologies
 
 ### Réflexologie palmaire
 
