@@ -14,6 +14,8 @@ remove-prev-next-button-bottom: true
 
 {% include prev-next-buttons.liquid %}
 
+{% include datedechoix.liquid %}
+
 [![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 ## Réflexo-Lignon, espace de détente et bien-être.
 
