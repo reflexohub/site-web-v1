@@ -25,11 +25,12 @@ remove-prev-next-button-bottom: true
 
 [La réflexologie spécifique en cas de troubles du sommeil](./reflexologie) consiste à rééquilibrer l’organisme en stimulant les zones reflexes concernées, dans le but d’améliorer les symptomes, et de retrouver un sommeil plus réparateur.
 
-[La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
-
 [La réflexologie de la boîte crânienne](./autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
 
 [Reflexo-Dos](./autres_soins) — La réflexologie combinée avec le massage assis.
+
+[La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
+
 
 ❧
 
