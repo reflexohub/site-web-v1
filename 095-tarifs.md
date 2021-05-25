@@ -86,6 +86,8 @@ Nouveau : Commandez votre "bon cadeau" en ligne !
 
 [![Bons-cadeaux](./images/bon-cadeau.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./bons-cadeaux)
 
+❧
+
 **En cas de modification ou annulation d'un rendez-vous, je vous remercie de m’en informer au plus tard un jour ouvrable à l’avance.** 
 
 ![](./images/sumup.jpg){: width="400" }
