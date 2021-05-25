@@ -8,7 +8,8 @@ published: true
 
 #### Le cabinet est ouvert du lundi au vendredi de 11h à 20h ####
 
-__________________________________________________________________
+❧
+
 
 ## Réflexologies
 
@@ -41,12 +42,16 @@ le prix est adapté en conséquence.
 ### Réflexologie amérindienne (60 min)
 **CHF 100.- la séance de 60 minutes**
 
+❧
+
 ### Abonnements 
 
 **CHF 490.- pour 7 séances de 60 minutes**
 **CHF 630.- pour 7 séances de 75 minutes**
 **CHF 770.- pour 7 séances de 90 minutes**
 **Supplément de CHF 20.- par séance pour les massages aux pierres chaudes**
+
+❧
 
 ## Massages aux pierres chaudes
 
@@ -67,6 +72,8 @@ le prix est adapté en conséquence.
 ### Séances de réflexologie + massage aux pierres chaudes (2h)
 - Réflexologie plantaire (60 min.) + massage aux pierres chaudes (60 min.)
 **CHF 200.- la séance de 2h**
+
+❧
 
 
 ## Bons cadeaux
