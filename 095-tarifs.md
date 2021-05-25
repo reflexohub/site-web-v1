@@ -1,10 +1,14 @@
 ---
-title: tarifs
-permalink: tarifs
+title: horaires & tarifs
+permalink: horaires & tarifs
 published: true
 ---
 
-# Tarifs
+# Horaires & Tarifs
+
+#### Le cabinet est ouvert du lundi au vendredi de 11h à 20h ####
+
+__________________________________________________________________
 
 ## Réflexologies
 
