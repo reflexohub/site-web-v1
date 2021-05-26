@@ -17,8 +17,8 @@ remove-prev-next-button-bottom: true
 ### Réflexologue diplômée, agréé ASCA ###
 
 [![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
-#### Réflexo-Lignon
-#### réflexologie thérapeutique & soins de détente et bien-être.
+
+#### Réflexologie thérapeutique & soins de détente et bien-être.
 
 **Un réflexe pour soulager les maux du quotidien et éliminer les tensions dues au stress.**
 Cliquez sur les images et les liens pour + d'informations
