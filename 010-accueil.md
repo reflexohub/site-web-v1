@@ -21,6 +21,8 @@ remove-prev-next-button-bottom: true
 #### réflexologie thérapeutique & soins de détente et bien-être.
 
 **Un réflexe pour soulager les maux du quotidien et éliminer les tensions dues au stress.**
+Cliquez sur les images et les liens pour + d'informations
+
 [![Réflexologie](./images/pieds.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
 
 
