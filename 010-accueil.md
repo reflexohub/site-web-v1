@@ -7,14 +7,14 @@ remove-prev-next-button-bottom: true
 
 # Réflexo Lignon
 
-## Suzanne Himmelberger
-### Réflexologue diplômée, agréé ASCA ###
-
 ## Bienvenue
 
 {% include prev-next-buttons.liquid %}
 
 {% include datedechoix.liquid %}
+
+## Suzanne Himmelberger
+### Réflexologue diplômée, agréé ASCA ###
 
 [![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 #### Réflexo-Lignon
