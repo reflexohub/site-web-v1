@@ -68,7 +68,7 @@ Commandez votre "bon cadeau" en ligne !
 [Autres témoignages](./temoignages)
 
 
-## [Tarifs](./horaires & tarifs)
+[## Tarifs](./horaires & tarifs)
 
 
 ## Bon à savoir
