@@ -67,6 +67,10 @@ Commandez votre "bon cadeau" en ligne !
 
 [Autres témoignages](./temoignages)
 
+
+## [Tarifs](./horaires & tarifs)
+
+
 ## Bon à savoir
 
 Étant une spécialiste agréée par l’[*ASCA*](http://www.asca.ch/dc.aspx?content=Assureurs_conventionnes), mes séances sont remboursées par certaines assurances complémentaires.
