@@ -47,6 +47,7 @@ J'ai suivi une formation de **réflexologie en oncologie**, il s’agit d’un s
 
 
 #### NOUVEAU : massage aux pierres chaudes pour une relaxation totale 
+
 [![Massages aux pierres chaudes](./images/wellness2.jpg){: style="margin-top:10px; margin-bottom:10px; width:357px" }](./massages aux pierres chaudes)
 
 
