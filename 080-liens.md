@@ -10,10 +10,6 @@ published: true
 
 Sandy Scheuring : [*L’instant précieux, Confignon, Genève*](http://massage-confignon.ch)
 
-**Réflexologie – Massages**
-
-[*Centre Ocinquieme Sens*](http://www.ocinquieme.ch)
-
 
 
 **Réflexologie – Massages – Hypnose**
