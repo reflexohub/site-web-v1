@@ -25,11 +25,11 @@ Cliquez sur les images et les liens pour + d'informations
 
 [![Réflexologie](./images/pieds.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
 
-[Reflexo-Dos](./autres_soins) — La réflexologie combinée avec le massage assis.
+[Reflexo-Dos](./autres_reflexologies) — La réflexologie combinée avec le massage assis.
 
-[La réflexologie de la boîte crânienne](./autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
+[La réflexologie de la boîte crânienne](./autres_reflexologies) permet de soulager insomnies, stress, préoccupations et autres.
 
-[La réflexologie palmaire](./autres_soins) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
+[La réflexologie palmaire](./autres_reflexologies) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
 
 
 ❧
