@@ -77,7 +77,7 @@ Commandez votre "bon cadeau" en ligne !
 **La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.**
 
 
-[![Tarifs](./images/boutontarif.png){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./horaires & tarifs)
+[![Tarifs](./images/boutontarif.png){: style="margin-top:20px; margin-bottom:20px; width:200px" }](./horaires & tarifs)
 
 
 Au plaisir de vous rencontrer,
