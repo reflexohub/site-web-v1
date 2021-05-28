@@ -23,7 +23,7 @@ remove-prev-next-button-bottom: true
 **Un réflexe pour soulager les maux du quotidien et éliminer les tensions dues au stress.**
 Cliquez sur les images et les liens pour + d'informations
 
-[![Réflexologie](./images/pieds1.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
+[![Réflexologie](./images/zone-pieds1.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
 
 [Reflexo-Dos](./autres reflexologies) — La réflexologie combinée avec le massage assis.
 
