@@ -25,9 +25,6 @@ Cliquez sur les images et les liens pour + d'informations
 
 [![Réflexologie](./images/pieds.jpg){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
 
-
-[La réflexologie spécifique en cas de troubles du sommeil](./reflexologie) consiste à rééquilibrer l’organisme en stimulant les zones reflexes concernées, dans le but d’améliorer les symptomes, et de retrouver un sommeil plus réparateur.
-
 [Reflexo-Dos](./autres_soins) — La réflexologie combinée avec le massage assis.
 
 [La réflexologie de la boîte crânienne](./autres_soins) permet de soulager insomnies, stress, préoccupations et autres.
