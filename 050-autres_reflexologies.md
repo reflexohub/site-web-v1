@@ -63,6 +63,10 @@ Marc Ivo Bohning, formateur, et auteur du livre : Réflexologie amérindienne s
 
 ![](./images/reflexoamerindienne.jpg){: style="margin-top:20px; margin-bottom:20px; width:200px" }
 
+
+[![Tarifs](./images/boutontarif.png){: style="margin-top:20px; margin-bottom:20px; width:150px" }](./horaires & tarifs)
+
+
 **La réflexologie ne remplace en aucun cas un traitement médical, et ne peut en aucun cas se substituer à la prise en charge d’un médecin en cas de maladie grave. Elle permet un accompagnement en parallèle.**
 
 {% include datedechoix.liquid %}
