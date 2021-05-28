@@ -28,6 +28,9 @@ Découvrez la douceur des pierres volcanique et laissez-vous envelopper par une 
 - Séance de réflexologie plantaire suivie d'un massage aux pierres chaudes
 
 
+[![Tarifs](./images/boutontarif.png){: style="margin-top:20px; margin-bottom:20px; width:150px" }](./horaires & tarifs)
+
+
 
 
 {% include datedechoix.liquid %}
