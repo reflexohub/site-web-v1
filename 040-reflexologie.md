@@ -41,6 +41,9 @@ La réflexologie contemporaine repose sur les recherches, au début du XXe sièc
 
 ❧
 
+[![Tarifs](./images/boutontarif.png){: style="margin-top:20px; margin-bottom:20px; width:150px" }](./horaires & tarifs)
+
+
 **Quelques articles à propos de la réflexologie :**
 
 - [Passport Santé — Indications de la réflexologie][1]
