@@ -24,6 +24,10 @@ remove-prev-next-button-bottom: true
 Cliquez sur les images et les liens pour + d'informations
 
 [![Réflexologie](./images/zones-pieds1.png){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
+
+❧
+
+#### D'autres soins de réflexologie que je propose :
  
 [Reflexo-Dos](./autres reflexologies) — La réflexologie combinée avec le massage assis.
 
