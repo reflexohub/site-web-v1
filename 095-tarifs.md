@@ -42,7 +42,6 @@ le prix est adapté en conséquence.
 ### Réflexologie amérindienne (60 min)
 **CHF 100.- la séance de 60 minutes**
 
-❧
 
 ### Abonnements 
 
@@ -52,6 +51,9 @@ le prix est adapté en conséquence.
 **Supplément de CHF 20.- par séance pour les massages aux pierres chaudes**
 
 ❧
+
+## Massage Hakim
+**CHF 120.- la séance de 70 minutes**
 
 ## Massages aux pierres chaudes
 
