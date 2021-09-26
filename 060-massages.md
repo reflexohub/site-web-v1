@@ -1,6 +1,6 @@
 ---
 title: massages 
-permalink: massages aux pierres chaudes
+permalink: massages 
 published: true
 ---
 
