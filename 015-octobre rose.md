@@ -30,6 +30,9 @@ Soyez très nombreux et nombreuses à réserver une séance, et en plus de vous 
 Un très grand MERCI par avance.
 Suzanne
 
+![RCS-ASAP](./images/RCS-ASAP.png){: style="margin-top:40px;margin-bottom:100px;width:350px" }
+
+
 ![](./images/ImageASAP.jpg){: style="margin-top:40px;margin-bottom:100px;width:350px" }
 
 {% include datedechoix.liquid %}
