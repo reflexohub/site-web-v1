@@ -48,12 +48,13 @@ J'ai suivi une formation de **réflexologie en oncologie**, il s’agit d’un s
 
 #### NOUVEAU : Massage Hakim
 
-![](./images/hakim.jpg)(./massages)
+[![Massage Hakim](./images/wellness2.jpg){: style="margin-top:10px; margin-bottom:10px; width:357px" }](./massages)
+
 
 
 #### Massage aux pierres chaudes
 
-[![Massages aux pierres chaudes](./images/wellness2.jpg){: style="margin-top:10px; margin-bottom:10px; width:357px" }](./massages)
+[![Massages aux pierres chaudes](./images/hakim.jpg){: style="margin-top:10px; margin-bottom:10px; width:357px" }](./massages)
 
 
 ❧
