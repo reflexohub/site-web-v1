@@ -7,7 +7,7 @@ published: true
 # Je me présente
 
 
-![](./images/portrait-asap.jpg){: width="400" }
+![](./images/suzannereflexo.jpg){: width="400" }
 
 
 J’ai travaillé pendant 35 ans dans le milieu bancaire. Parallèlement, j’ai toujours été attirée par une activité dans le bien-être.
