@@ -1,5 +1,5 @@
 ---
-title: octobre-rose
+title: octobre rose
 permalink: octobre rose
 published: true
 ---
