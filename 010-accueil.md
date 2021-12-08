@@ -33,8 +33,6 @@ Cliquez sur les images et les liens pour + d'informations
 
 [La réflexologie de la boîte crânienne](./autres reflexologies) permet de soulager insomnies, stress, préoccupations et autres.
 
-[La réflexologie palmaire](./autres reflexologies) est une vraie séance de réflexologie appliquée sur les mains, n’hésitez pas à découvrir cette méthode trop peu connue.
-
 
 ❧
 
