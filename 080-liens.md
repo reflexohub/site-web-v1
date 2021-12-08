@@ -17,11 +17,6 @@ Sandy Scheuring : [*L’instant précieux, Confignon, Genève*](http://massage-
 [*Catherine Jörg*](http://catherinejorg.ch)
 
 
-**EFT – TBT, Gestion du stress**
-
-Isabelle Levrat : [*EFT-TBT.com*](http://eft-tbt.com)
-
-
 
 **Géobiologie**
 
