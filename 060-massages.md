@@ -35,11 +35,6 @@ Découvrez la douceur des pierres volcanique et laissez-vous envelopper par une 
 
 ![](./images/Pierres1.png)
 
-### Je vous propose différentes options :
-
-- Massage aux pierres chaudes (pieds, jambes, ventre, épaules, nuque, bras, dos)
-- Séance de réflexologie plantaire suivie d'un massage aux pierres chaudes
-
 
 [![Tarifs](./images/boutontarif.png){: style="margin-top:20px; margin-bottom:20px; width:150px" }](./horaires & tarifs)
 
