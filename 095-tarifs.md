@@ -56,8 +56,6 @@ le prix est adapté en conséquence.
 **CHF 120.- la séance de 70 minutes**
 
 ## Massages aux pierres chaudes
-
-### Séances massage aux pierres chaudes (1h30)
 **CHF 160.- la séance de 1h30**
 
 ❧
