@@ -18,7 +18,7 @@ remove-prev-next-button-bottom: true
 
 [![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 
-#### Réflexologie thérapeutique & soins de détente et bien-être.
+#### Réflexologie thérapeutique 
 
 **J'aide les personnes souffrant d'inconforts en lien avec le stress à soulager les tensions liées au maux du quotidien, à lâcher prise, et à retrouver un meilleur équilibre général par la réflexologie plantaire.**
 
@@ -45,7 +45,7 @@ J'ai suivi une formation de **réflexologie en oncologie**, il s’agit d’un s
 ❧
 
 
-#### NOUVEAU : Massage Hakim
+#### Massage Hakim
 
 [![Massage Hakim](./images/hakim.jpg){: style="margin-top:10px; margin-bottom:10px; width:357px" }](./massages)
 
