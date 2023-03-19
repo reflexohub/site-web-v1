@@ -20,7 +20,7 @@ remove-prev-next-button-bottom: true
 
 #### Réflexologie thérapeutique & soins de détente et bien-être.
 
-**Un réflexe pour soulager les maux du quotidien et éliminer les tensions dues au stress.**
+**J'aide les personnes souffrant d'inconforts en lien avec le stress à souilager els tensions liées au maux du quotidien, à lâcher prise, et à retrouver un meilleur équilibre général par la réflexologie plantaire.**
 Cliquez sur les images et les liens pour + d'informations
 
 [![Réflexologie](./images/zones-pieds1.png){: style="margin-top:20px; margin-bottom:20px; width:357px" }](./reflexologie)
