@@ -11,13 +11,6 @@ published: true
 Sandy Scheuring : [*L’instant précieux, Confignon, Genève*](http://massage-confignon.ch)
 
 
-
-**Réflexologie – Massages – Hypnose**
-
-[*Catherine Jörg*](http://catherinejorg.ch)
-
-
-
 **Géobiologie**
 
 Véronique Matter : [*L’Or vert de la Gruyère*](http://www.orvert.ch)
