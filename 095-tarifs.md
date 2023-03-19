@@ -36,18 +36,12 @@ published: true
 - Réflexologie palmaire (des mains)
 **CHF 80.- la séance de 50 minutes**
 
+### Réflexo en oncologie
 Les séances d’oncoréflexologie peuvent être plus courtes,
 le prix est adapté en conséquence.
 
 ### Réflexologie amérindienne (60 min)
 **CHF 100.- la séance de 60 minutes**
-
-
-### Abonnements 
-
-**CHF 490.- pour 7 séances de 60 minutes**
-**CHF 630.- pour 7 séances de 75 minutes**
-**CHF 770.- pour 7 séances de 90 minutes**
 
 ❧
 
