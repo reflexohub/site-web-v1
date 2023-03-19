@@ -18,9 +18,11 @@ remove-prev-next-button-bottom: true
 
 [![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 
-#### Réflexologie thérapeutique 
 
 **J'aide les personnes souffrant d'inconforts en lien avec le stress à soulager les tensions liées au maux du quotidien, à lâcher prise, et à retrouver un meilleur équilibre général par la réflexologie plantaire.**
+
+
+#### Réflexologie thérapeutique
 
 Cliquez sur les images et les liens pour + d'informations
 
