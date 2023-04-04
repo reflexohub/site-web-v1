@@ -10,7 +10,7 @@ published: true
 ![](./images/suzannereflexo.jpg){: width="400" }
 
 
-J'ai découvert la réflexologie plantaire dans le milieu des années 2000 en tant que cliente. 
+Je m'appelle Suzanne Himmelberger, et j'ai découvert la réflexologie plantaire dans le milieu des années 2000 en tant que cliente. 
 J'avais eu une très mauvaise fracture au niveau de la cheville en 1988. Depuis, ce pied me fait toujours plus ou moins souffrir, les sensations ne sont plus les mêmes, j'ai appris à vivre avec.... 
 Lorsque je reçois des séances de réflexologie, c'est un vrai bonheur pour mes pieds, j'ai l'impression que mon pied respire et revit à nouveau. 
 
