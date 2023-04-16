@@ -16,7 +16,7 @@ remove-prev-next-button-bottom: true
 ## Suzanne Himmelberger
 ### Réflexologue diplômée, agréé ASCA ###
 
-[![Suzanne Himmelberger](./images/suzanne-himmelberger-3.jpg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
+[![Suzanne Himmelberger](./images/IMG_0146.jpeg){: style="margin-top:50px;margin-bottom:50px;" }](./presentation)
 
 
 **J'aide les personnes souffrant d'inconforts en lien avec le stress à soulager les tensions liées aux maux du quotidien, à lâcher prise, et à retrouver un meilleur équilibre général par la réflexologie plantaire.**
