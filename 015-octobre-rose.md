@@ -1,7 +1,7 @@
 ---
 title: octobre rose
 permalink: octobre-rose
-published: flase
+published: true
 ---
 
 # Action Octobre Rose 2022
