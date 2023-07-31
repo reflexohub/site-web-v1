@@ -6,6 +6,11 @@ published: true
 
 # Témoignages
 
+> Un grand merci pour vos soins, j'ai des jambes légères comme à mes 20 ans ! 
+> Et un super sommeil complet toute la nuit ! 
+> Je tiens vraiment à vous remercier pour votre travail professionnel !
+> Nicole
+
 > Je viens régulièrement, depuis environ 5 ans pour des séances de réflexologie chez Suzanne. 
 > Je suis très satisfaite, je la trouve très dévouée et elle comprend bien mes soucis de santé, notamment urinaires.
 > Après les séances, ma vessie se vide beaucoup mieux, et je trouve cela très bénéfique pour moi, car cela espace les infections urinaires.
