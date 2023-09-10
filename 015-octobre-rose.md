@@ -1,16 +1,16 @@
 ---
 title: octobre rose
 permalink: octobre-rose
-published: false
+published: true
 ---
 
-# Action Octobre Rose 2022
+# Action Octobre Rose 2023
 
 Comme chaque année au mois d'octobre, Reflexo Lignon soutient le Réseau Cancer du Sein [*Association savoir patient*](http://www.savoirpatient.ch)
 
 ![](./images/portrait-asap.jpg){: width="400" }
 
-Je soutiens le Réseau Cancer du Sein, et pour la septième année consécutive, je m'engage à leur reverser le 10% de mon chiffre d'affaire du mois d’octobre.
+Je soutiens le Réseau Cancer du Sein, et pour la huitième année consécutive, je m'engage à leur reverser le 10% de mon chiffre d'affaire du mois d’octobre.
 Le prix d'une séance de 60 minutes est de CHF 100.-
 
 Le cancer du sein en Suisse : estimation 2018, uniquement cancers du sein invasifs :
