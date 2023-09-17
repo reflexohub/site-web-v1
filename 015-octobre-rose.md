@@ -25,7 +25,10 @@ Le cancer du sein en Suisse : estimation 2018, uniquement cancers du sein invasi
 1ère cause de mortalité féminine entre 40 et 50 ans
 1 femme sur 8 y sera confrontée pendant sa vie
 
+
 Soyez très nombreux et nombreuses à réserver une séance, et en plus de vous faire du bien, vous participerez au soutien de cette association qui me tient à coeur.
+
+![](./images/Equipe ASAP.png){: width="400" }
 
 Un très grand MERCI par avance.
 Suzanne
