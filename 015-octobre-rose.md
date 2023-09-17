@@ -28,7 +28,7 @@ Le cancer du sein en Suisse : estimation 2018, uniquement cancers du sein invasi
 
 Soyez très nombreux et nombreuses à réserver une séance, et en plus de vous faire du bien, vous participerez au soutien de cette association qui me tient à coeur.
 
-![](./images/Equipe ASAP.png){: width="400" }
+![](./images/EquipeASAP.jpg){: width="400" }
 
 Un très grand MERCI par avance.
 Suzanne
