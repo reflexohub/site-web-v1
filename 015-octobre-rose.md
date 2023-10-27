@@ -8,7 +8,7 @@ published: true
 
 Comme chaque année au mois d'octobre, Reflexo Lignon soutient le Réseau Cancer du Sein [*Association savoir patient*](http://www.savoirpatient.ch)
 
-![](./images/portrait-asap.jpg){: width="400" }
+![](./images/suzeasap.jpg){: width="400" }
 
 Je soutiens le Réseau Cancer du Sein, et pour la huitième année consécutive, je m'engage à leur reverser le 10% de mon chiffre d'affaire du mois d’octobre.
 Le prix d'une séance de 60 minutes est de CHF 100.-
