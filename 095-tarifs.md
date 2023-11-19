@@ -32,10 +32,6 @@ published: true
 - Réflexo-dos + tête aux pieds
 **CHF 140.- la séance de 90 minutes**
 
-### Réflexo des mains (50 min)
-- Réflexologie palmaire (des mains)
-**CHF 80.- la séance de 50 minutes**
-
 ### Réflexo en oncologie
 Les séances d’oncoréflexologie peuvent être plus courtes,
 le prix est adapté en conséquence.
