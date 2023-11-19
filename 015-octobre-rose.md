@@ -1,7 +1,7 @@
 ---
 title: octobre rose
 permalink: octobre-rose
-published: true
+published: false
 ---
 
 # Action Octobre Rose 2023
