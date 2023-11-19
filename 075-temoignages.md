@@ -6,6 +6,14 @@ published: true
 
 # Témoignages
 
+> Je voulais vous informer des bienfaits de votre massage, en arrivant chez vous, j'avais de fortes douleurs à la nuque, et depuis hier, j'ai presque plus de douleurs. Je suis Très Très contente et vais bientôt reprendre un rendez-vous.
+> 10000 mercis
+> Michaela
+
+> Je recommande vivement ce massage qui fait un bien fou psychologiquement et physiquement, et pourtant pour moi c'était pas facile, malgré tout j'ai été à l'aise de suite.
+> Un grand merci à vous, j'attends mon 2ème rendez-vous avec impatience !!!!
+> Fabienne
+
 > Un grand merci pour vos soins, j'ai des jambes légères comme à mes 20 ans ! 
 > Et un super sommeil complet toute la nuit ! 
 > Je tiens vraiment à vous remercier pour votre travail professionnel !
