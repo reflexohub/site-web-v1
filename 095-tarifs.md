@@ -48,9 +48,6 @@ le prix est adapté en conséquence.
 ## Massage Hakim
 **CHF 120.- la séance de 70 minutes**
 
-## Massages aux pierres chaudes
-**CHF 160.- la séance de 1h30**
-
 ❧
 
 
