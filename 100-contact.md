@@ -31,6 +31,8 @@ Arrêt *Cité Lignon*
 
 ![](./images/cabinet2023.jpg){: width="400" }
 
+![](./images/entreecabinet.jpg){: width="400" }
+
 ![](./images/batiment-lignon.jpg){: width="400" }
 
 ![](./images/cabinet-reflexologie-suzanne-himmelberger-1.jpg){: width="400" }
