@@ -11,12 +11,12 @@ published: true
 
 La réflexologie plantaire ou crânienne combinée avec le massage assis.
 
-![](./images/reflexologie-du-dos.jpg){: width="400" }
+![](./images/massageamma.jpg){: width="400" }
 
 Le massage AMMA ASSIS se traduit par « calmer avec les mains ». La personne est assise sur une chaise dont d’ergonomie spécifique s’adapte à toutes les morphologies, et permet un lâcher-prise très rapide. Le toucher s’effectue à travers les vêtements, ce qui sécurise ceux qui se font masser pour la première fois. Il n’y a donc en principe pas d’utilisation d’huile ou de crème. Dans la pratique du massage assis, la technique utilisée est une stimulation exercée par des pressions sur des points sensibles appelés « Tsubos », le long des lignes des méridiens suivant la tête, la nuque, les épaules, le dos, les hanches, les bras et les mains.
 Cette technique traditionnelle de *wellness* reste la plus répandue au Japon, et tient une position importante dans le vaste choix des méthodes dites de bien-être.
 
-![](./images/reflexologie-massage-assis.jpg){: width="400" }
+![](./images/chaiseamma.jpg){: width="400" }
 
 ### La réflexologie de la boîte crânienne
 
