@@ -12,6 +12,7 @@ remove-prev-next-button-bottom: true
 {% include prev-next-buttons.liquid %}
 
 {% include datedechoix.liquid %}
+#### Le cabinet sera fermé du 25 décembre au 5 janvier inclus, j'en profite pour vous souhaiter de très belles fêtes de fin d'année
 
 ## Suzanne Himmelberger
 ### Réflexologue diplômée, agréé ASCA ###
