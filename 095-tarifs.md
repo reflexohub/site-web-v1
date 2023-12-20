@@ -15,19 +15,18 @@ published: true
 
 ### Séances réflexologie (60 min)
 - Réflexologie plantaire (bien-être et thérapeutique)
-- Réflexologie de la boîte crânienne
-- Réflexologie de la tête aux pieds
+- Réflexologie de la tête aux pieds (réflexologie de la boîte cânienne et réflexologie plantaire)
 - Réflexo-dos
 **CHF 100.- la séance de 60 minutes**
 
 ### Séances réflexologie (75 min)
 - Réflexologie plantaire
-- Réflexologie de la tête aux pieds
+- Réflexologie de la tête aux pieds (réflexologie de la boîte cânienne et réflexologie plantaire)
 - Réflexo-dos
 **CHF 120.- la séance de 75 minutes**
 
 ### Séances réflexologie (90 min)
-- Réflexologie de la tête aux pieds
+- Réflexologie de la tête aux pieds (réflexologie de la boîte cânienne et réflexologie plantaire)
 - Réflexo-dos
 - Réflexo-dos + tête aux pieds
 **CHF 140.- la séance de 90 minutes**
