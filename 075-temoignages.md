@@ -6,6 +6,10 @@ published: true
 
 # Témoignages
 
+> Expérience très positive, une vraie parenthèse de relaxation ! La thérapeute est très avenante et sympathique et très professionnelle. La séance m'a apporté un bienfait par rapport au stress et au sommeil et une légère amélioration digestive.
+> Merci
+> Ludivine
+
 > Je voulais vous informer des bienfaits de votre massage, en arrivant chez vous, j'avais de fortes douleurs à la nuque, et depuis hier, j'ai presque plus de douleurs. Je suis Très Très contente et vais bientôt reprendre un rendez-vous.
 > 10000 mercis
 > Michaela
