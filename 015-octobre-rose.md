@@ -4,7 +4,7 @@ permalink: octobre-rose
 published: true
 ---
 
-# Action Octobre Rose 2023
+# Action Octobre Rose 2024
 
 Comme chaque année au mois d'octobre, Reflexo Lignon soutient le Réseau Cancer du Sein [*Association savoir patient*](http://www.savoirpatient.ch)
 
