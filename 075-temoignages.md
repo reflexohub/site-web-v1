@@ -6,6 +6,12 @@ published: true
 
 # Témoignages
 
+> Suite à un petit souci de thyroïde, discussion avec Suzanne, recherche, et hop reflexo une fois par semaine pendant 5 semaines, et les valeurs de la prise de sang étaient de nouveau correctes.
+> Maintenant, une fois par mois, les mains magiques de Suzanne.
+> On est tellement bien dans son cabinet cosi et accessible en TPG ou voiture.
+> Merci pour ton débvouement et ton accueil souriant.
+> Muriel
+
 > Expérience très positive, une vraie parenthèse de relaxation ! La thérapeute est très avenante et sympathique et très professionnelle. La séance m'a apporté un bienfait par rapport au stress et au sommeil et une légère amélioration digestive.
 > Merci
 > Ludivine
