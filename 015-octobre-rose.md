@@ -25,7 +25,7 @@ Je soutiens cette association pour la onzième année consécutive, et je m'enga
 
 Soyez très nombreux et nombreuses à réserver une séance, et en plus de vous faire du bien, vous participerez au soutien de cette association qui me tient à coeur.
 
-![](./images/nouveauasap.jpg){: width="400" }
+![](./images/nouveauasap.jpg){: width="357" }
 
 Un très grand MERCI par avance.
 Suzanne
